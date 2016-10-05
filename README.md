@@ -1,2 +1,2 @@
 # Python Example 1
-The protocol data script takes a database, captures and transforms relevant data to then be used in the output data script which takes the protocol data and runs a few analyses and outputs it to Excel.
+This example takes a database of survey respondent data, extracts and transforms the relevant data needed, and then calculates different analyses on the data. This program is 100% runnable and comes with example data just run output_data.py.
