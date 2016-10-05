@@ -1,0 +1,2190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<survey 
+  alt="Module Template: Pharma - PT4 - iSearch Discovery Tool - Patient Persuasion v3"
+  autosave="0"
+  builder:wizardCompleted="1"
+  builderCompatible="1"
+  compat="130"
+  displayOnError="all"
+  extraVariables="source,record,ipAddress,decLang,list,userAgent"
+  fir="on"
+  html:showNumber="0"
+  mobile="compat"
+  mobileDevices="tablet,desktop"
+  name="iSearch Discovery Tool"
+  setup="term,decLang,quota,time"
+  ss:disableBackButton="0"
+  ss:enableNavigation="1"
+  ss:hideProgressBar="0"
+  ss:logoFile="selfserve/2015/logo_0a0b77098c3225d59c0138e884e35bc5.png"
+  ss:logoPosition="left"
+  ss:showBackButton="0"
+  state="testing"
+  theme="company/imr-theme">
+
+<res label="NT_1_Name">New Treatment 1</res>
+<res label="Total_Attributes">7</res>
+<res label="NT_1_A1">DTI</res>
+<res label="NT_1_A2">1.8% (comparable to Warfarin)</res>
+<res label="NT_1_A3">3.0% (comparable to Warfarin)</res>
+<res label="NT_1_A4">5.0% (inferior to Warfarin)</res>
+<res label="NT_1_A5">Proven safety</res>
+<res label="NT_1_A6">None</res>
+<res label="NT_1_A7">Oral, QD</res>
+<res label="NT_1_A8"/>
+<res label="NT_1_A9"/>
+<res label="NT_1_A10"/>
+<res label="Attribute_1">Attribute 1</res>
+<res label="Attribute_2">Attribute 2</res>
+<res label="Attribute_3">Attribute 3</res>
+<res label="Attribute_4">Attribute 4</res>
+<res label="Attribute_5">Attribute 5</res>
+<res label="Attribute_6">Attribute 6</res>
+<res label="Attribute_7">Attribute 7</res>
+<res label="Attribute_8"/>
+<res label="Attribute_9"/>
+<res label="Attribute_10"/>
+<res label="sys_continue">Next</res>
+<res label="Usage_Occasion_1">Uncontrolled Type 2 Diabetes</res>
+<res label="Usage_Occasion_2">Uncontrolled Type 2 Diabetes patients</res>
+<res label="Existing_Treatment_1">Existing Treatment 1</res>
+<res label="Existing_Treatment_2">Existing Treatment 2</res>
+<res label="Existing_Treatment_3">Existing Treatment 3</res>
+<res label="Existing_Treatment_4">Existing Treatment 4</res>
+<res label="Existing_Treatment_5">Existing Treatment 5</res>
+<res label="Existing_Treatment_6">Existing Treatment 6</res>
+<res label="Existing_Treatment_7">Existing Treatment 7</res>
+<res label="Existing_Treatment_8_Other">Other</res>
+<res label="Total_Ex_Treatments">8</res>
+<res label="Clinical_Info_Hyperlink">/survey/selfserve/2015/150708/kb.uploads.pdf</res>
+<res label="Attribute_Max_Levels">4</res>
+<res label="Max_Clicks">10</res>
+<res label="Total_Extra_Clicks">7</res>
+<res label="Total_Columns">3</res>
+<res label="Total_Min_Clicks">3</res>
+<res label="Min_Clicks_C1">1</res>
+<res label="Min_Clicks_C2">1</res>
+<res label="Min_Clicks_C3">1</res>
+<res label="Min_Clicks_C4"/>
+<res label="Column_Header_1">Col Header 1</res>
+<res label="Column_Header_2">Col Header 2</res>
+<res label="Column_Header_3">Col Header 3</res>
+<res label="Column_Header_4"/>
+<res label="Total_Patient_Cases">3</res>
+<res label="C1_Total_Attributes">3</res>
+<res label="C1_Attribute_1">C1 Attribute 1</res>
+<res label="C1_Attribute_2">C1 Attribute 2</res>
+<res label="C1_Attribute_3">C1 Attribute 3</res>
+<res label="C1_Attribute_4"/>
+<res label="C1_Attribute_5"/>
+<res label="C1_Attribute_6"/>
+<res label="C1_Attribute_7"/>
+<res label="C1_Attribute_8"/>
+<res label="C1_Attribute_Max_Levels">3</res>
+<res label="C1_A1_L1">C1 A1 L1</res>
+<res label="C1_A1_L2">C1 A1 L2</res>
+<res label="C1_A1_L3"/>
+<res label="C1_A1_L4"/>
+<res label="C1_A1_L5"/>
+<res label="C1_A1_L6"/>
+<res label="C1_A2_L1">C1 A2 L1</res>
+<res label="C1_A2_L2">C1 A2 L2</res>
+<res label="C1_A2_L3">C1 A2 L3</res>
+<res label="C1_A2_L4"/>
+<res label="C1_A2_L5"/>
+<res label="C1_A2_L6"/>
+<res label="C1_A3_L1">C1 A3 L1</res>
+<res label="C1_A3_L2">C1 A3 L2</res>
+<res label="C1_A3_L3"/>
+<res label="C1_A3_L4"/>
+<res label="C1_A3_L5"/>
+<res label="C1_A3_L6"/>
+<res label="C1_A4_L1"/>
+<res label="C1_A4_L2"/>
+<res label="C1_A4_L3"/>
+<res label="C1_A4_L4"/>
+<res label="C1_A4_L5"/>
+<res label="C1_A4_L6"/>
+<res label="C1_A5_L1"/>
+<res label="C1_A5_L2"/>
+<res label="C1_A5_L3"/>
+<res label="C1_A5_L4"/>
+<res label="C1_A5_L5"/>
+<res label="C1_A5_L6"/>
+<res label="C1_A6_L1"/>
+<res label="C1_A6_L2"/>
+<res label="C1_A6_L3"/>
+<res label="C1_A6_L4"/>
+<res label="C1_A6_L5"/>
+<res label="C1_A6_L6"/>
+<res label="C1_A7_L1"/>
+<res label="C1_A7_L2"/>
+<res label="C1_A7_L3"/>
+<res label="C1_A7_L4"/>
+<res label="C1_A7_L5"/>
+<res label="C1_A7_L6"/>
+<res label="C1_A8_L1"/>
+<res label="C1_A8_L2"/>
+<res label="C1_A8_L3"/>
+<res label="C1_A8_L4"/>
+<res label="C1_A8_L5"/>
+<res label="C1_A8_L6"/>
+<res label="C2_Total_Attributes">4</res>
+<res label="C2_Attribute_1">C2 Attribute 1</res>
+<res label="C2_Attribute_2">C2 Attribute 2</res>
+<res label="C2_Attribute_3">C2 Attribute 3</res>
+<res label="C2_Attribute_4">C2 Attribute 4</res>
+<res label="C2_Attribute_5"/>
+<res label="C2_Attribute_6"/>
+<res label="C2_Attribute_7"/>
+<res label="C2_Attribute_8"/>
+<res label="C2_Attribute_Max_Levels">4</res>
+<res label="C2_A1_L1">C2 A1 L1</res>
+<res label="C2_A1_L2">C2 A1 L2</res>
+<res label="C2_A1_L3">C2 A1 L3</res>
+<res label="C2_A1_L4">C2 A1 L4</res>
+<res label="C2_A1_L5"/>
+<res label="C2_A1_L6"/>
+<res label="C2_A2_L1">C2 A2 L1</res>
+<res label="C2_A2_L2">C2 A2 L2</res>
+<res label="C2_A2_L3"/>
+<res label="C2_A2_L4"/>
+<res label="C2_A2_L5"/>
+<res label="C2_A2_L6"/>
+<res label="C2_A3_L1">C2 A3 L1</res>
+<res label="C2_A3_L2">C2 A3 L2</res>
+<res label="C2_A3_L3">C2 A3 L3</res>
+<res label="C2_A3_L4">C2 A3 L4</res>
+<res label="C2_A3_L5"/>
+<res label="C2_A3_L6"/>
+<res label="C2_A4_L1">C2 A4 L1</res>
+<res label="C2_A4_L2">C2 A4 L2</res>
+<res label="C2_A4_L3"/>
+<res label="C2_A4_L4"/>
+<res label="C2_A4_L5"/>
+<res label="C2_A4_L6"/>
+<res label="C2_A5_L1"/>
+<res label="C2_A5_L2"/>
+<res label="C2_A5_L3"/>
+<res label="C2_A5_L4"/>
+<res label="C2_A5_L5"/>
+<res label="C2_A5_L6"/>
+<res label="C2_A6_L1"/>
+<res label="C2_A6_L2"/>
+<res label="C2_A6_L3"/>
+<res label="C2_A6_L4"/>
+<res label="C2_A6_L5"/>
+<res label="C2_A6_L6"/>
+<res label="C2_A7_L1"/>
+<res label="C2_A7_L2"/>
+<res label="C2_A7_L3"/>
+<res label="C2_A7_L4"/>
+<res label="C2_A7_L5"/>
+<res label="C2_A7_L6"/>
+<res label="C2_A8_L1"/>
+<res label="C2_A8_L2"/>
+<res label="C2_A8_L3"/>
+<res label="C2_A8_L4"/>
+<res label="C2_A8_L5"/>
+<res label="C2_A8_L6"/>
+<res label="C3_Total_Attributes">5</res>
+<res label="C3_Attribute_1">C3 Attribute 1</res>
+<res label="C3_Attribute_2">C3 Attribute 2</res>
+<res label="C3_Attribute_3">C3 Attribute 3</res>
+<res label="C3_Attribute_4">C3 Attribute 4</res>
+<res label="C3_Attribute_5">C3 Attribute 5</res>
+<res label="C3_Attribute_6"/>
+<res label="C3_Attribute_7"/>
+<res label="C3_Attribute_8"/>
+<res label="C3_Attribute_Max_Levels">5</res>
+<res label="C3_A1_L1">C3 A1 L1</res>
+<res label="C3_A1_L2">C3 A1 L2</res>
+<res label="C3_A1_L3">C3 A1 L3</res>
+<res label="C3_A1_L4">C3 A1 L4</res>
+<res label="C3_A1_L5">C3 A1 L5</res>
+<res label="C3_A1_L6"/>
+<res label="C3_A2_L1">C3 A2 L1</res>
+<res label="C3_A2_L2">C3 A2 L2</res>
+<res label="C3_A2_L3">C3 A2 L3</res>
+<res label="C3_A2_L4"/>
+<res label="C3_A2_L5"/>
+<res label="C3_A2_L6"/>
+<res label="C3_A3_L1">C3 A3 L1</res>
+<res label="C3_A3_L2">C3 A3 L2</res>
+<res label="C3_A3_L3">C3 A3 L3</res>
+<res label="C3_A3_L4">C3 A3 L4</res>
+<res label="C3_A3_L5">C3 A3 L5</res>
+<res label="C3_A3_L6"/>
+<res label="C3_A4_L1">C3 A4 L1</res>
+<res label="C3_A4_L2">C3 A4 L2</res>
+<res label="C3_A4_L3"/>
+<res label="C3_A4_L4"/>
+<res label="C3_A4_L5"/>
+<res label="C3_A4_L6"/>
+<res label="C3_A5_L1">C3 A5 L1</res>
+<res label="C3_A5_L2">C3 A5 L2</res>
+<res label="C3_A5_L3"/>
+<res label="C3_A5_L4"/>
+<res label="C3_A5_L5"/>
+<res label="C3_A5_L6"/>
+<res label="C3_A6_L1"/>
+<res label="C3_A6_L2"/>
+<res label="C3_A6_L3"/>
+<res label="C3_A6_L4"/>
+<res label="C3_A6_L5"/>
+<res label="C3_A6_L6"/>
+<res label="C3_A7_L1"/>
+<res label="C3_A7_L2"/>
+<res label="C3_A7_L3"/>
+<res label="C3_A7_L4"/>
+<res label="C3_A7_L5"/>
+<res label="C3_A7_L6"/>
+<res label="C3_A8_L1"/>
+<res label="C3_A8_L2"/>
+<res label="C3_A8_L3"/>
+<res label="C3_A8_L4"/>
+<res label="C3_A8_L5"/>
+<res label="C3_A8_L6"/>
+<res label="C1_A1_FE">1</res>
+<res label="C1_A2_FE">0</res>
+<res label="C1_A3_FE">0</res>
+<res label="C1_A4_FE"/>
+<res label="C1_A5_FE"/>
+<res label="C1_A6_FE"/>
+<res label="C1_A7_FE"/>
+<res label="C1_A8_FE"/>
+<res label="C2_A1_FE">1</res>
+<res label="C2_A2_FE">0</res>
+<res label="C2_A3_FE">0</res>
+<res label="C2_A4_FE">0</res>
+<res label="C2_A5_FE"/>
+<res label="C2_A6_FE"/>
+<res label="C2_A7_FE"/>
+<res label="C2_A8_FE"/>
+<res label="C3_A1_FE">1</res>
+<res label="C3_A2_FE">0</res>
+<res label="C3_A3_FE">0</res>
+<res label="C3_A4_FE">0</res>
+<res label="C3_A5_FE">0</res>
+<res label="C3_A6_FE"/>
+<res label="C3_A7_FE"/>
+<res label="C3_A8_FE"/>
+<res label="Forced_Exposure_Message">Please note, there may be some additional information available for your review.</res>
+<res label="Forced_Exposure_Flag">1</res>
+<samplesources default="0">
+  <samplesource list="0">
+    <title>Open Survey</title>
+    <invalid>You are missing information in the URL. Please verify the URL with the original invite.</invalid>
+    <completed>It seems you have already entered this survey.</completed>
+    <exit cond="terminated">Thank you for taking our survey.</exit>
+    <exit cond="qualified">Thank you for taking our survey. Your efforts are greatly appreciated!</exit>
+    <exit cond="overquota">Thank you for taking our survey.</exit>
+  </samplesource>
+</samplesources>
+
+<suspend/>
+
+<style mode="after" name="respview.client.css"><![CDATA[
+<link rel="stylesheet" type="text/css" href="[rel imr_style.css]" />
+
+<style>
+.hide_cell {
+  cursor: pointer;  
+  background-color: #eee;
+  text-align: center;
+  vertical-align: middle !important;
+}
+
+.show_cell {
+  background-color: #fff;
+  cursor: default;
+  text-align: left;
+}
+
+.hide_cell .cell_info {
+  display: none;
+}
+
+.show_cell .cell_info {
+  display: initial;
+}
+
+.show_cell .cell_header {
+  display: none;
+}
+
+.search_matrix td {
+  width: 33%;
+}
+
+.disabled_table_cell {
+  visibility: hidden;
+}
+
+#question_medication1_attribute1_1, #question_medication1_attribute2_1, #question_medication1_attribute3_1, #question_medication1_attribute4_1, #question_medication1_attribute5_1, #question_medication1_attribute6_1, #question_medication1_attribute7_1, #question_medication1_attribute8_1, #question_medication2_attribute1_1, #question_medication2_attribute2_1, #question_medication2_attribute3_1, #question_medication2_attribute4_1, #question_medication2_attribute5_1, #question_medication2_attribute6_1, #question_medication2_attribute7_1, #question_medication2_attribute8_1, #question_medication3_attribute1_1, #question_medication3_attribute2_1, #question_medication3_attribute3_1, #question_medication3_attribute4_1, #question_medication3_attribute5_1, #question_medication3_attribute6_1, #question_medication3_attribute7_1, #question_medication3_attribute8_1, #question_medication1_attribute1_2, #question_medication1_attribute2_2, #question_medication1_attribute3_2, #question_medication1_attribute4_2, #question_medication1_attribute5_2, #question_medication1_attribute6_2, #question_medication1_attribute7_2, #question_medication1_attribute8_2, #question_medication2_attribute1_2, #question_medication2_attribute2_2, #question_medication2_attribute3_2, #question_medication2_attribute4_2, #question_medication2_attribute5_2, #question_medication2_attribute6_2, #question_medication2_attribute7_2, #question_medication2_attribute8_2, #question_medication3_attribute1_2, #question_medication3_attribute2_2, #question_medication3_attribute3_2, #question_medication3_attribute4_2, #question_medication3_attribute5_2, #question_medication3_attribute6_2, #question_medication3_attribute7_2, #question_medication3_attribute8_2, #question_medication1_attribute1_3, #question_medication1_attribute2_3, #question_medication1_attribute3_3, #question_medication1_attribute4_3, #question_medication1_attribute5_3, #question_medication1_attribute6_3, #question_medication1_attribute7_3, #question_medication1_attribute8_3, #question_medication2_attribute1_3, #question_medication2_attribute2_3, #question_medication2_attribute3_3, #question_medication2_attribute4_3, #question_medication2_attribute5_3, #question_medication2_attribute6_3, #question_medication2_attribute7_3, #question_medication2_attribute8_3, #question_medication3_attribute1_3, #question_medication3_attribute2_3, #question_medication3_attribute3_3, #question_medication3_attribute4_3, #question_medication3_attribute5_3, #question_medication3_attribute6_3, #question_medication3_attribute7_3, #question_medication3_attribute8_3, #question_medication1_attribute1_4, #question_medication1_attribute2_4, #question_medication1_attribute3_4, #question_medication1_attribute4_4, #question_medication1_attribute5_4, #question_medication1_attribute6_4, #question_medication1_attribute7_4, #question_medication1_attribute8_4, #question_medication2_attribute1_4, #question_medication2_attribute2_4, #question_medication2_attribute3_4, #question_medication2_attribute4_4, #question_medication2_attribute5_4, #question_medication2_attribute6_4, #question_medication2_attribute7_4, #question_medication2_attribute8_4, #question_medication3_attribute1_4, #question_medication3_attribute2_4, #question_medication3_attribute3_4, #question_medication3_attribute4_4, #question_medication3_attribute5_4, #question_medication3_attribute6_4, #question_medication3_attribute7_4, #question_medication3_attribute8_4, #question_medication1_attribute1_5, #question_medication1_attribute2_5, #question_medication1_attribute3_5, #question_medication1_attribute4_5, #question_medication1_attribute5_5, #question_medication1_attribute6_5, #question_medication1_attribute7_5, #question_medication1_attribute8_5, #question_medication2_attribute1_5, #question_medication2_attribute2_5, #question_medication2_attribute3_5, #question_medication2_attribute4_5, #question_medication2_attribute5_5, #question_medication2_attribute6_5, #question_medication2_attribute7_5, #question_medication2_attribute8_5, #question_medication3_attribute1_5, #question_medication3_attribute2_5, #question_medication3_attribute3_5, #question_medication3_attribute4_5, #question_medication3_attribute5_5, #question_medication3_attribute6_5, #question_medication3_attribute7_5, #question_medication3_attribute8_5, #question_medication1_attribute1_6, #question_medication1_attribute2_6, #question_medication1_attribute3_6, #question_medication1_attribute4_6, #question_medication1_attribute5_6, #question_medication1_attribute6_6, #question_medication1_attribute7_6, #question_medication1_attribute8_6, #question_medication2_attribute1_6, #question_medication2_attribute2_6, #question_medication2_attribute3_6, #question_medication2_attribute4_6, #question_medication2_attribute5_6, #question_medication2_attribute6_6, #question_medication2_attribute7_6, #question_medication2_attribute8_6, #question_medication3_attribute1_6, #question_medication3_attribute2_6, #question_medication3_attribute3_6, #question_medication3_attribute4_6, #question_medication3_attribute5_6, #question_medication3_attribute6_6, #question_medication3_attribute7_6, #question_medication3_attribute8_6, #question_medication1_attribute1_7, #question_medication1_attribute2_7, #question_medication1_attribute3_7, #question_medication1_attribute4_7, #question_medication1_attribute5_7, #question_medication1_attribute6_7, #question_medication1_attribute7_7, #question_medication1_attribute8_7, #question_medication2_attribute1_7, #question_medication2_attribute2_7, #question_medication2_attribute3_7, #question_medication2_attribute4_7, #question_medication2_attribute5_7, #question_medication2_attribute6_7, #question_medication2_attribute7_7, #question_medication2_attribute8_7, #question_medication3_attribute1_7, #question_medication3_attribute2_7, #question_medication3_attribute3_7, #question_medication3_attribute4_7, #question_medication3_attribute5_7, #question_medication3_attribute6_7, #question_medication3_attribute7_7, #question_medication3_attribute8_7, #question_medication1_attribute1_8, #question_medication1_attribute2_8, #question_medication1_attribute3_8, #question_medication1_attribute4_8, #question_medication1_attribute5_8, #question_medication1_attribute6_8, #question_medication1_attribute7_8, #question_medication1_attribute8_8, #question_medication2_attribute1_8, #question_medication2_attribute2_8, #question_medication2_attribute3_8, #question_medication2_attribute4_8, #question_medication2_attribute5_8, #question_medication2_attribute6_8, #question_medication2_attribute7_8, #question_medication2_attribute8_8, #question_medication3_attribute1_8, #question_medication3_attribute2_8, #question_medication3_attribute3_8, #question_medication3_attribute4_8, #question_medication3_attribute5_8, #question_medication3_attribute6_8, #question_medication3_attribute7_8, #question_medication3_attribute8_8, #question_medication4_attribute1_1, #question_medication4_attribute2_1, #question_medication4_attribute3_1, #question_medication4_attribute4_1, #question_medication4_attribute5_1, #question_medication4_attribute6_1, #question_medication4_attribute7_1, #question_medication4_attribute8_1, #question_medication4_attribute1_2, #question_medication4_attribute2_2, #question_medication4_attribute3_2, #question_medication4_attribute4_2, #question_medication4_attribute5_2,
+#question_medication4_attribute6_2, #question_medication4_attribute7_2, #question_medication4_attribute8_2, #question_medication4_attribute1_3, #question_medication4_attribute2_3, #question_medication4_attribute3_3, #question_medication4_attribute4_3, #question_medication4_attribute5_3,
+#question_medication4_attribute6_3, #question_medication4_attribute7_3, #question_medication4_attribute8_3, #question_medication4_attribute1_4, #question_medication4_attribute2_4, #question_medication4_attribute3_4, #question_medication4_attribute4_4, #question_medication4_attribute5_4,
+#question_medication4_attribute6_4, #question_medication4_attribute7_4, #question_medication4_attribute8_4, #question_medication4_attribute1_5, #question_medication4_attribute2_5, #question_medication4_attribute3_5, #question_medication4_attribute4_5, #question_medication4_attribute5_5,
+#question_medication4_attribute6_5, #question_medication4_attribute7_5, #question_medication4_attribute8_5, #question_medication4_attribute1_6, #question_medication4_attribute2_6, #question_medication4_attribute3_6, #question_medication4_attribute4_6, #question_medication4_attribute5_6,
+#question_medication4_attribute6_6, #question_medication4_attribute7_6, #question_medication4_attribute8_6, #question_medication4_attribute1_7, #question_medication4_attribute2_7, #question_medication4_attribute3_7, #question_medication4_attribute4_7, #question_medication4_attribute5_7,
+#question_medication4_attribute6_7, #question_medication4_attribute7_7, #question_medication4_attribute8_7, #question_medication4_attribute1_8, #question_medication4_attribute2_8, #question_medication4_attribute3_8, #question_medication4_attribute4_8, #question_medication4_attribute5_8,
+#question_medication4_attribute6_8, #question_medication4_attribute7_8, #question_medication4_attribute8_8,    
+#question_page_start_time_1, #question_page_start_time_2, #question_page_start_time_3, #question_page_start_time_4, #question_page_start_time_5, #question_page_start_time_6, #question_page_start_time_7, #question_page_start_time_8 { 
+  display: none;
+}
+</style>
+]]></style>
+<exec>
+p.start_time = timeSpent() # elapsed time over module
+p.temp_start_time = timeSpent() # elapsed time over question
+</exec>
+
+<exec when="init">
+def setupFile(fname, fileDelimiter="\t"):
+    try:
+        f = open("%s/%s" % (gv.survey.path, fname))
+        dcmObj = [ line.strip("\r\n").split(fileDelimiter) for line in f.readlines() ]
+        d = dict( ("v%s_t%s" % (row[0], row[1]), row[2:]) for row in dcmObj )
+        d = {}
+        dcm_concepts = []
+
+        for i,row in enumerate(dcmObj):
+            if i:
+                d["v%s_t%s_c%s" % (row[0],row[1],row[2])] = row[3:]
+                if row[2] not in dcm_concepts:
+                    dcm_concepts.append(row[2])
+
+        concepts = [ int(x) for x in dcm_concepts ]
+        concepts.sort()
+        d["concepts"] = dcm_concepts
+
+        return d     
+    except IOError:
+        d = {}
+
+    return d
+
+def setupQuestion(d, vt):
+    print "***** STAFF ONLY *****"
+    print "***** DCM Matrix *****"
+    print "Version_Task: %s" % vt
+    attr_count = 0
+
+    for concept in d.get("concepts"):
+        attributes = d[ "%s_c%s" % (vt,concept) ]
+        print "Concept %s: %s" % (concept,attributes)
+        
+        for i,attr in enumerate(attributes):
+            if attr is not '0':
+                if res[ "C%s_A%s_L%s" % (concept,i+1,attr) ]:
+                    p[ "concept%s_att%s" % (concept,i+1) ] = res[ "C%s_A%s_L%s" % (concept,i+1,attr) ]
+                    p["nt%s_att%d_level" % (concept,i+1)] = int(attr) # store level number
+                    p["col%s_A%s_Level" % (concept, i+1)] = res[ "C%s_A%s_L%s" % (concept,i+1, attr) ] # store the attribute levels by column number
+                if res[ "C%s_Attribute_%s" % (concept,i+1) ]:
+                    p[ "legend_att%s_C%s" % (i+1, concept) ] = res[ "C%s_Attribute_%s" % (concept,i+1) ]
+</exec>
+
+<exec when="init">
+iSM = setupFile("design.dat")
+</exec>
+
+<quota overquota="noqual" sheet="iSM"/>
+
+<number 
+  label="iSM_Version"
+  size="3"
+  verify="range(1,2)"
+  where="execute,survey,report">
+  <title>iSM Version</title>
+  <exec>
+print p.markers
+for x in p.markers:
+  if "/iSM/ver_" in x:
+    iSM_Version.val = int(x.split("_")[-1])
+    break
+print iSM
+  </exec>
+
+</number>
+
+<suspend/>
+
+<exec>
+p.start_time = timeSpent() # elapsed time over module
+p.temp_start_time = timeSpent() # elapsed time over question
+</exec>
+
+<exec>
+html = '<table class="table table-bordered ref-table"><tr class="blueBG"><td><b>Treatment Description</b></td><td><b>'+res.NT_1_Name+'</b></td></tr>'
+
+for i in range(int(res.Total_Attributes)):
+  html += '<tr><td><b>'+res['Attribute_%d' % (i+1)]+'</b></td><td>'+res['NT_1_A%d' % (i+1)]+'</td></tr>'
+html+= '</table>'
+
+p.nt_1_table = html
+</exec>
+
+<html label="FP_EX"><p class="blue"><b>Introduction to ${res.NT_1_Name}</b></p>  
+<p>In the following sections of this survey, you will be asked questions about <b>${res.NT_1_Name}</b>.</p>
+<p>Please carefully review the information below and be prepared to provide your opinions about the treatment.</p>
+[nt_1_table]
+<p><i>Please note this information is for market research purposes only.</i></p></html>
+
+<suspend/>
+
+<float 
+  label="Time_FP_EX"
+  optional="0"
+  where="execute,survey,report">
+  <title>Time FP_EX</title>
+  <exec>
+stop_time = timeSpent() # get current time
+end_time = stop_time - p.temp_start_time # get elapsed time since last time calc
+Time_FP_EX.val = end_time # set value of question
+p.temp_start_time = timeSpent() # set start time of next question
+  </exec>
+
+</float>
+
+<suspend/>
+
+<radio 
+  label="FP_BW"
+  grouping="cols"
+  shuffle="rows"
+  ss:questionClassNames="FP_BW"
+  surveyDisplay="desktop"
+  unique="1">
+  <title><p>Please assume <b>${res.NT_1_Name}</b> is approved for the treatment of <b>${res.Usage_Occasion_2}</b>.</p>
+
+    <p>What pieces of information about <b>${res.NT_1_Name}</b> <u>most motivate</u> you to want to take it to treat your condition? What pieces of information <u>least motivate</u> you?</p>
+
+    <p><i>Please select one item for each answer column. The same item may not be selected more than once.</i></p>
+  </title>
+  <row label="r1" cond="res.NT_1_A1">${res.Attribute_1}: ${res.NT_1_A1}</row>
+  <row label="r2" cond="res.NT_1_A2">${res.Attribute_2}: ${res.NT_1_A2}</row>
+  <row label="r3" cond="res.NT_1_A3">${res.Attribute_3}: ${res.NT_1_A3}</row>
+  <row label="r4" cond="res.NT_1_A4">${res.Attribute_4}: ${res.NT_1_A4}</row>
+  <row label="r5" cond="res.NT_1_A5">${res.Attribute_5}: ${res.NT_1_A5}</row>
+  <row label="r6" cond="res.NT_1_A6">${res.Attribute_6}: ${res.NT_1_A6}</row>
+  <row label="r7" cond="res.NT_1_A7">${res.Attribute_7}: ${res.NT_1_A7}</row>
+  <row label="r8" cond="res.NT_1_A8">${res.Attribute_8}: ${res.NT_1_A8}</row>
+  <row label="r9" cond="res.NT_1_A9">${res.Attribute_9}: ${res.NT_1_A9}</row>
+  <row label="r10" cond="res.NT_1_A10">${res.Attribute_10}: ${res.NT_1_A10}</row>
+  <col label="c1">Most Motivating to Take</col>
+  <col label="c2">Second Most Motivating to Take</col>
+  <col label="c3">Least Motivating to Take</col>
+  <col label="c4">Second Least Motivating to Take</col>
+  <style mode="before" name="question.header"><![CDATA[
+<style type="text/css">
+  .FP_BW .survey-q-grid .survey-q-grid-rowlegend {
+      text-align: center;
+  }
+  </style>
+]]></style>
+  <style name="question.row"><![CDATA[
+\@if this.styles.ss.rowHeight
+      <tr class="$(style) colCount-$(colCount)" style="height:${this.styles.ss.rowHeight};">
+  \@else
+      <tr class="$(style) colCount-$(colCount)">
+  \@endif
+      ${"%s%s" % (elements.split("</td>")[0],"</td>") if '</td>' in elements else "%s%s" % (elements.split("</div>")[0],"</div>")}
+      ${"%s%s" % (elements.split("</td>")[1],"</td>") if '</td>' in elements else "%s%s" % (elements.split("</div>")[1],"</div>")}
+      $(left)
+      ${elements.split("</td>")[2] if '</td>' in elements else elements.split("</div>")[3]}
+      ${elements.split("</td>")[3] if '</td>' in elements else elements.split("</div>")[4]}
+  </tr>
+]]></style>
+  <style name="question.top-legend"><![CDATA[
+\@if this.styles.ss.colLegendHeight
+      <tr class="legend top-legend${" GtTenColumns" if ec.colCount > 10 else ""} colCount-$(colCount)" style="height:${this.styles.ss.colLegendHeight};">
+  \@else
+      <tr class="legend top-legend${" GtTenColumns" if ec.colCount > 10 else ""} colCount-$(colCount)">
+  \@endif
+      ${"%s%s" % (legends.split("</th>")[0],"</th>") if '</th>' in legends else "%s%s" % (legends.split("</div>")[0],"</div>")}
+      ${"%s%s" % (legends.split("</th>")[1],"</th>") if '</th>' in legends else "%s%s" % (legends.split("</div>")[1],"</div>")}
+      $(left)
+      ${legends.split("</th>")[2] if '</th>' in legends else legends.split("</div>")[2]}
+      ${legends.split("</th>")[3] if '</th>' in legends else legends.split("</div>")[3]}
+  </tr>
+  <tbody>
+]]></style>
+  <style name="question.left-blank-legend"><![CDATA[
+<th class="cell blueBG empty-left empty-$(pos) unused ${"desktop" if this.grouping.cols else "mobile"} border-collapse"><h3 style="text-align:center"><b>${res.NT_1_Name}</b></h3></th>
+]]></style>
+</radio>
+
+<suspend/>
+
+<float 
+  label="Time_FP_BW"
+  optional="0"
+  where="execute,survey,report">
+  <title>Time FP_BW</title>
+  <exec>
+stop_time = timeSpent() # get current time
+end_time = stop_time - p.temp_start_time # get elapsed time since last time calc
+Time_FP_BW.val = end_time # set value of question
+p.temp_start_time = timeSpent() # set start time of next question
+  </exec>
+
+</float>
+
+<suspend/>
+
+<note>------------Begin Search Matrix---</note>
+<exec>
+tables = [] # instead of just a string, put into table just in case text will someday go between the tables
+
+for i in range(int(res.Total_Columns)):
+  max_levels = res['C%d_Attribute_Max_Levels' % (i+1)]
+  html = '<table class="table table-bordered ref-table"><tr class="blueBG"><td><b>'+res['Column_Header_%d' % (i+1)]+'</b></td><td colspan="'+ max_levels +'" class="center"><b>Potential Outcomes</b></td></tr>'
+  for j in range(int(res['C%d_Total_Attributes' % (i+1)])):
+    html += '<tr><td>'+res['C%d_Attribute_%d' % (i+1,j+1)]+'</td>'
+    for k in range(int(res['C%d_Attribute_Max_Levels' % (i+1)])):
+      if res['C%d_A%d_L%d' % (i+1, j+1, k+1)]:
+        html += '<td>'+res['C%d_A%d_L%d' % (i+1, j+1, k+1)]+'</td>'
+      else:
+        html += '<td></td>'
+    html += '</tr>'
+  html += '</table>'
+  tables.append(html)
+
+
+html_tables = ''
+for table in tables:
+  html_tables += table
+p.attribute_tables = html_tables
+</exec>
+
+<html label="INTRO_ISDT_1"><p class="blue"><b>Introduction to xxxx, Part 1</b></p>
+<p>In the next exercise you will be given the opportunity to indicate if you would consider taking <b>${res.NT_1_Name}</b> to treat your condition.</p>
+<p>In addition to the information you just reviewed, you will have the chance to learn more about <b>${res.NT_1_Name}</b> by accessing information from the following sources.</p>
+<p>Please review the below tables carefully and consider which types of information are the most important for you when </p>
+[attribute_tables]</html>
+
+<suspend/>
+
+<float 
+  label="Time_INTRO_ISDT_1"
+  optional="0"
+  where="execute,survey,report">
+  <title>Time INTRO_ISDT_1</title>
+  <exec>
+stop_time = timeSpent() # get current time
+end_time = stop_time - p.temp_start_time # get elapsed time since last time calc
+Time_INTRO_ISDT_1.val = end_time # set value of question
+p.temp_start_time = timeSpent() # set start time of next question
+  </exec>
+
+</float>
+
+<suspend/>
+
+<html label="INTRO_ISDT_2"><p class="blue"><b>Introduction to xxxx Exercise, Part 2</b></p>
+<p><b>Overview:</b></p>
+<p>In this exercise, you will be asked to imagine that your doctor is recommending you change your treatment to now include <b>${res.NT_1_Name}</b>.</p>
+<p>Your task is to learn about <b>${res.NT_1_Name}</b> and determine if you would like to take to it treat your condition or if you would rather keep with your current medications instead.</p>
+<p>You will always have access to the basic information about <b>${res.NT_1_Name}</b>, but you will need to click on boxes in order to learn additional information.</p>
+<p>You will complete this task ${res.Total_Patient_Cases} times, and the additional information shown about <b>${res.NT_1_Name}</b> will vary each time.</p>
+<p><b>Instructions:</b></p>
+<p>You will complete a <b>3 step exercise</b> for each question in this section:</p>
+<ul>
+  <p><b>Step 1: Learn about ${res.NT_1_Name}</b></p>
+  <ul>
+    <li>A grid of boxes represents additional information you can learn about <b>${res.NT_1_Name}</b></li>
+    <li>The boxes are organized into 3 columns representing the different sources of information that you can access</li>
+    <li>Click on boxes to reveal the hidden information within them</li>
+    <li>You may not open all of the boxes, so you must prioritize which you choose to open</li>
+    <li>Once you have uncovered enough information to decide whether or not you would take <b>${res.NT_1_Name}</b>, you may proceed to the next step.</li>
+  </ul>
+
+  <p><b>Step 2: Decide whether or not to take ${res.NT_1_Name}</b>  </p>
+  <ul>
+    <li>Given the information you learned in Step 1 and indicate what you would prefer to take to treat your condition</li>
+  </ul>
+
+  <p><b>Step 3: Evaluate the Information</b></p>
+  <ul><li>For each of the two hypothetical treatments, you will be asked to indicate which features/benefits motivated your prescribing decision</li></ul>
+</ul></html>
+
+<suspend/>
+
+<float 
+  label="Time_INTRO_ISDT_2"
+  optional="0"
+  where="execute,survey,report">
+  <title>Time INTRO_ISDT_1</title>
+  <exec>
+stop_time = timeSpent() # get current time
+end_time = stop_time - p.temp_start_time # get elapsed time since last time calc
+Time_INTRO_ISDT_2.val = end_time # set value of question
+p.temp_start_time = timeSpent() # set start time of next question
+  </exec>
+
+</float>
+
+<suspend/>
+
+<exec>
+p.i = 0
+</exec>
+
+<loop label="iSM" suspend="0" vars="task,NTleft,NTmiddle,NTright,NTlast">
+  <title>iSearchMatrix Loop</title>
+  <block label="iSM_block">
+    <exec>
+# set up design file for search matrix
+setupQuestion( iSM, "v%s_t%s" % (iSM_Version.val,"[loopvar: task]") )
+
+# counter logic
+p.i = p.i + 1    
+
+total_cols = int(res.Total_Columns)
+max_attrs = 0 # maximum amount of attributes in a column
+
+# set orders for each column
+orders = [] # random display orders per column
+fe_flag = int(res.Forced_Exposure_Flag) # is there forced exposure or not?
+
+for i in range(total_cols):
+  order = ishuffle([x for x in range(int(res['C%d_Total_Attributes' % (i+1)]))])
+  if len(order) gt max_attrs:
+    max_attrs = len(order)
+  orders.append(order)
+
+p.ATTR_ORDER = orders
+
+# let's build a search matrix
+cols = []
+fe_cols = [] # forced exposure
+
+for i in range(total_cols): # for each column
+  col = [] # whatever you append to this
+  fe_col = [] # make sure to append to this
+
+  for j in orders[i]: # for each attribute in said column
+    # append a cell to the column list
+    col.append('<td class="hide_cell Med'+ str(i+1) +'_A'+ str(j+1) +'"><span class="cell_info"><b>' + p['legend_att%d_C%d' % (j+1,i+1)] + ': <span class="blue">' + p['concept%d_att%d' % (i+1,j+1)] + '</span></b></span><span class="cell_header"><b>' + p['legend_att%d_C%d' % (j+1,i+1)] + '?</b></span></td>')
+    
+    # are we using Forced Exposure?
+    if fe_flag == 1:
+      if res['C%d_A%d_FE' % (i+1,j+1)] == '1': # is this attribute exposed forcefully?
+        fe_col.append('<td class="hide_cell Med'+ str(i+1) +'_A'+ str(j+1) +' show_cell already_clicked"><span class="cell_info"><b>' + p['legend_att%d_C%d' % (j+1,i+1)] + ': <span class="blue">' + p['concept%d_att%d' % (i+1,j+1)] + '</span></b></span><span class="cell_header"><b>' + p['legend_att%d_C%d' % (j+1,i+1)] + '?</b></span></td>')
+      else: # if not just show it closed
+        fe_col.append('<td class="hide_cell Med'+ str(i+1) +'_A'+ str(j+1) +'"><span class="cell_info"><b>' + p['legend_att%d_C%d' % (j+1,i+1)] + ': <span class="blue">' + p['concept%d_att%d' % (i+1,j+1)] + '</span></b></span><span class="cell_header"><b>' + p['legend_att%d_C%d' % (j+1,i+1)] + '?</b></span></td>')
+    else:
+      col.append('<td></td>')
+
+  max_diff_col_len = max_attrs - len(orders[i]) # see if there are less rows in column than the max
+
+  # if there is, append blank cells to make all columns have equal amounts of rows
+  if max_diff_col_len gt 0:
+    for j in range(max_diff_col_len):
+      col.append('<td class="disabled_table_cell"></td>')
+      if fe_flag == 1:
+        fe_col.append('<td class="disabled_table_cell"></td>')
+  print col
+  cols.append(col)
+  fe_cols.append(fe_col)
+
+rows = [[False for y in range(total_cols)] for x in range(max_attrs)] # list of row lists of length equal to number of columns
+fe_rows = [[False for y in range(total_cols)] for x in range(max_attrs)]
+
+# inverting columns to rows
+# easier to first group them as columns as the columns are related
+# easier to display as rows since that is how HTML tables work
+for i in range(total_cols): 
+  for j in range(max_attrs):
+    rows[j][i] = cols[i][j]
+    if fe_flag == 1:
+      fe_rows[j][i] = fe_cols[i][j]
+
+s_html = '<table class="table table-bordered search_matrix"><tr class="blueBG">'
+
+# generate table row headers
+for i in range(total_cols):
+  s_html += '<td><b>' + res['Column_Header_%d' % (i+1)] + '<br /><span class="C'+str(i+1)+'_span">(Click on at least <span class="C'+str(i+1)+'_remaining">' + res['Min_Clicks_C%d' % (i+1)] + '</span> items)</span></b></td>'
+s_html +='</tr>'
+
+# changing from columns to rows allows us to generate the table like this
+for row in rows:
+  s_html += '<tr>'
+  for r in row:
+    s_html += r
+  s_html += '</tr>'
+
+s_html += '</table>'
+
+p.fe_html_rows = fe_rows[:]
+
+p.html_rows = rows[:]
+p.q1_table = s_html
+    </exec>
+
+    <html label="INTRO_ISDT_3_[loopvar: label]"><p>You will now begin question # <b>${p.i}</b> of <b>${res.Total_Patient_Cases}</b></p></html>
+
+    <suspend/>
+
+    <exec>
+p.ism_start_time = timeSpent()
+    </exec>
+
+    <html label="Q_ISDT_SEARCH_[loopvar: label]"><p class="blue"><b>Question ${p.i} of ${res.Total_Patient_Cases}: Step 1</b></p>
+      <p>Please imagine that your doctor has <u>recommended</u> you consider taking <b>${res.NT_1_Name}</b> to treat your condition. </p>
+      [nt_1_table]
+      <p style="text-align: center"><b><u>Click on boxes</u> to learn more about ${res.NT_1_Name}</b></p>
+      <ul>
+        <li>You must open at least ${res.Min_Clicks_C1} boxes in each column. </li>
+        <li>You may choose to open up to ${res.Total_Extra_Clicks} additional boxes anywhere in the grid</li>
+      </ul>
+      [q1_table]
+      <div style="height: 100px;">
+        <p class="continue_min_text" style="display:none;">You have now opened the minimum amount of boxes. You may either continue to open boxes or you may proceed to the next question by clicking “Next”.</p>
+        <p class="continue_max_text" style="display:none;">You have reached the limit on the total amount of boxes you can open. Please click “Next” to proceed to the next question.</p>
+        <p class="additional_text" style="display: none;">You have reached the limit on the amount of additional boxes you can open. You may now only open boxes to meet the minimum requirements in each column.</p>
+      </div></html>
+
+    <note>This records the time before the first click</note>
+    <float 
+    label="page_start_time_[loopvar: label]"
+    ss:questionClassNames="time_start">
+      <title>Time of page start to first matrix click</title>
+      <exec>
+for row in page_start_time_[loopvar: label]:
+  row.val = ''
+      </exec>
+
+      <row label="r1" ss:rowClassNames="time_row">time</row>
+    </float>
+
+    <note>These record the time between each click and the order in which the items in the matrix are clicked.
+
+These are temporary to finalized and recorded on the next screen</note>
+    <float 
+    label="medication1_attribute1_[loopvar: label]"
+    cond="res.C1_Attribute_1 and res.Total_Columns gt '0'"
+    ss:questionClassNames="time_Med1_A1">
+      <title>Time of medication 1, attribute 1 click</title>
+      <exec>
+for row in medication1_attribute1_[loopvar: label]:
+  row.val = ''
+      </exec>
+
+      <row label="r1" ss:rowClassNames="time_row">time</row>
+      <row label="r2" ss:rowClassNames="rank_row">rank</row>
+    </float>
+
+    <float 
+    label="medication1_attribute2_[loopvar: label]"
+    cond="res.C1_Attribute_2 and res.Total_Columns gt '0'"
+    ss:questionClassNames="time_Med1_A2">
+      <title>Time of medication 1, attribute 2 click</title>
+      <exec>
+for row in medication1_attribute2_[loopvar: label]:
+  row.val = ''
+      </exec>
+
+      <row label="r1" ss:rowClassNames="time_row">time</row>
+      <row label="r2" ss:rowClassNames="rank_row">rank</row>
+    </float>
+
+    <float 
+    label="medication1_attribute3_[loopvar: label]"
+    cond="res.C1_Attribute_3 and res.Total_Columns gt '0'"
+    ss:questionClassNames="time_Med1_A3">
+      <title>Time of medication 1, attribute 3 click</title>
+      <exec>
+for row in medication1_attribute3_[loopvar: label]:
+  row.val = ''
+      </exec>
+
+      <row label="r1" ss:rowClassNames="time_row">time</row>
+      <row label="r2" ss:rowClassNames="rank_row">rank</row>
+    </float>
+
+    <float 
+    label="medication1_attribute4_[loopvar: label]"
+    cond="res.C1_Attribute_4 and res.Total_Columns gt '0'"
+    ss:questionClassNames="time_Med1_A4">
+      <title>Time of medication 1, attribute 4 click</title>
+      <row label="r1" ss:rowClassNames="time_row">time</row>
+      <row label="r2" ss:rowClassNames="rank_row">rank</row>
+    </float>
+
+    <float 
+    label="medication1_attribute5_[loopvar: label]"
+    cond="res.C1_Attribute_5 and res.Total_Columns gt '0'"
+    ss:questionClassNames="time_Med1_A5">
+      <title>Time of medication 1, attribute 5 click</title>
+      <row label="r1" ss:rowClassNames="time_row">time</row>
+      <row label="r2" ss:rowClassNames="rank_row">rank</row>
+    </float>
+
+    <float 
+    label="medication1_attribute6_[loopvar: label]"
+    cond="res.C1_Attribute_6 and res.Total_Columns gt '0'"
+    ss:questionClassNames="time_Med1_A6">
+      <title>Time of medication 1, attribute 6 click</title>
+      <row label="r1" ss:rowClassNames="time_row">time</row>
+      <row label="r2" ss:rowClassNames="rank_row">rank</row>
+    </float>
+
+    <float 
+    label="medication1_attribute7_[loopvar: label]"
+    cond="res.C1_Attribute_7 and res.Total_Columns gt '0'"
+    ss:questionClassNames="time_Med1_A7">
+      <title>Time of medication 1, attribute 7 click</title>
+      <row label="r1" ss:rowClassNames="time_row">time</row>
+      <row label="r2" ss:rowClassNames="rank_row">rank</row>
+    </float>
+
+    <float 
+    label="medication1_attribute8_[loopvar: label]"
+    cond="res.C1_Attribute_8 and res.Total_Columns gt '0'"
+    ss:questionClassNames="time_Med1_A8">
+      <title>Time of medication 1, attribute 8 click</title>
+      <row label="r1" ss:rowClassNames="time_row">time</row>
+      <row label="r2" ss:rowClassNames="rank_row">rank</row>
+    </float>
+
+    <float 
+    label="medication2_attribute1_[loopvar: label]"
+    cond="res.C2_Attribute_1 and res.Total_Columns gt '1'"
+    ss:questionClassNames="time_Med2_A1">
+      <title>Time of medication 2, attribute 1 click</title>
+      <row label="r1" ss:rowClassNames="time_row">time</row>
+      <row label="r2" ss:rowClassNames="rank_row">rank</row>
+    </float>
+
+    <float 
+    label="medication2_attribute2_[loopvar: label]"
+    cond="res.C2_Attribute_2 and res.Total_Columns gt '1'"
+    ss:questionClassNames="time_Med2_A2">
+      <title>Time of medication 2, attribute 2 click</title>
+      <row label="r1" ss:rowClassNames="time_row">time</row>
+      <row label="r2" ss:rowClassNames="rank_row">rank</row>
+    </float>
+
+    <float 
+    label="medication2_attribute3_[loopvar: label]"
+    cond="res.C2_Attribute_3 and res.Total_Columns gt '1'"
+    ss:questionClassNames="time_Med2_A3">
+      <title>Time of medication 2, attribute 3 click</title>
+      <row label="r1" ss:rowClassNames="time_row">time</row>
+      <row label="r2" ss:rowClassNames="rank_row">rank</row>
+    </float>
+
+    <float 
+    label="medication2_attribute4_[loopvar: label]"
+    cond="res.C2_Attribute_4 and res.Total_Columns gt '1'"
+    ss:questionClassNames="time_Med2_A4">
+      <title>Time of medication 2, attribute 4 click</title>
+      <row label="r1" ss:rowClassNames="time_row">time</row>
+      <row label="r2" ss:rowClassNames="rank_row">rank</row>
+    </float>
+
+    <float 
+    label="medication2_attribute5_[loopvar: label]"
+    cond="res.C2_Attribute_5 and res.Total_Columns gt '1'"
+    ss:questionClassNames="time_Med2_A5">
+      <title>Time of medication 2, attribute 5 click</title>
+      <row label="r1" ss:rowClassNames="time_row">time</row>
+      <row label="r2" ss:rowClassNames="rank_row">rank</row>
+    </float>
+
+    <float 
+    label="medication2_attribute6_[loopvar: label]"
+    cond="res.C2_Attribute_6 and res.Total_Columns gt '1'"
+    ss:questionClassNames="time_Med2_A6">
+      <title>Time of medication 2, attribute 6 click</title>
+      <row label="r1" ss:rowClassNames="time_row">time</row>
+      <row label="r2" ss:rowClassNames="rank_row">rank</row>
+    </float>
+
+    <float 
+    label="medication2_attribute7_[loopvar: label]"
+    cond="res.C2_Attribute_7 and res.Total_Columns gt '1'"
+    ss:questionClassNames="time_Med2_A7">
+      <title>Time of medication 2, attribute 7 click</title>
+      <row label="r1" ss:rowClassNames="time_row">time</row>
+      <row label="r2" ss:rowClassNames="rank_row">rank</row>
+    </float>
+
+    <float 
+    label="medication2_attribute8_[loopvar: label]"
+    cond="res.C2_Attribute_8 and res.Total_Columns gt '1'"
+    ss:questionClassNames="time_Med2_A8">
+      <title>Time of medication 2, attribute 8 click</title>
+      <row label="r1" ss:rowClassNames="time_row">time</row>
+      <row label="r2" ss:rowClassNames="rank_row">rank</row>
+    </float>
+
+    <float 
+    label="medication3_attribute1_[loopvar: label]"
+    cond="res.Attribute_1 and res.Total_Columns gt '2'"
+    ss:questionClassNames="time_Med3_A1">
+      <title>Time of medication 3, attribute 1 click</title>
+      <row label="r1" ss:rowClassNames="time_row">time</row>
+      <row label="r2" ss:rowClassNames="rank_row">rank</row>
+    </float>
+
+    <float 
+    label="medication3_attribute2_[loopvar: label]"
+    cond="res.Attribute_2 and res.Total_Columns gt '2'"
+    ss:questionClassNames="time_Med3_A2">
+      <title>Time of medication 3, attribute 2 click</title>
+      <row label="r1" ss:rowClassNames="time_row">time</row>
+      <row label="r2" ss:rowClassNames="rank_row">rank</row>
+    </float>
+
+    <float 
+    label="medication3_attribute3_[loopvar: label]"
+    cond="res.Attribute_3 and res.Total_Columns gt '2'"
+    ss:questionClassNames="time_Med3_A3">
+      <title>Time of medication 3, attribute 3 click</title>
+      <row label="r1" ss:rowClassNames="time_row">time</row>
+      <row label="r2" ss:rowClassNames="rank_row">rank</row>
+    </float>
+
+    <float 
+    label="medication3_attribute4_[loopvar: label]"
+    cond="res.Attribute_4 and res.Total_Columns gt '2'"
+    ss:questionClassNames="time_Med3_A4">
+      <title>Time of medication 3, attribute 4 click</title>
+      <row label="r1" ss:rowClassNames="time_row">time</row>
+      <row label="r2" ss:rowClassNames="rank_row">rank</row>
+    </float>
+
+    <float 
+    label="medication3_attribute5_[loopvar: label]"
+    cond="res.Attribute_5 and res.Total_Columns gt '2'"
+    ss:questionClassNames="time_Med3_A5">
+      <title>Time of medication 3, attribute 5 click</title>
+      <row label="r1" ss:rowClassNames="time_row">time</row>
+      <row label="r2" ss:rowClassNames="rank_row">rank</row>
+    </float>
+
+    <float 
+    label="medication3_attribute6_[loopvar: label]"
+    cond="res.Attribute_6 and res.Total_Columns gt '2'"
+    ss:questionClassNames="time_Med3_A6">
+      <title>Time of medication 3, attribute 6 click</title>
+      <row label="r1" ss:rowClassNames="time_row">time</row>
+      <row label="r2" ss:rowClassNames="rank_row">rank</row>
+    </float>
+
+    <float 
+    label="medication3_attribute7_[loopvar: label]"
+    cond="res.Attribute_7 and res.Total_Columns gt '2'"
+    ss:questionClassNames="time_Med3_A7">
+      <title>Time of medication 3, attribute 7 click</title>
+      <row label="r1" ss:rowClassNames="time_row">time</row>
+      <row label="r2" ss:rowClassNames="rank_row">rank</row>
+    </float>
+
+    <float 
+    label="medication3_attribute8_[loopvar: label]"
+    cond="res.Attribute_8 and res.Total_Columns gt '2'"
+    ss:questionClassNames="time_Med3_A8">
+      <title>Time of medication 3, attribute 8 click</title>
+      <row label="r1" ss:rowClassNames="time_row">time</row>
+      <row label="r2" ss:rowClassNames="rank_row">rank</row>
+    </float>
+
+    <exec>
+total_col = int(res.Total_Columns)
+for i in range(1 , total_col + 1):
+  if i == 1:
+    for j,row in enumerate(Q_ISDT_SEARCH_[loopvar: task]_NT[loopvar: NTleft].rows):
+      if res['C%d_Attribute_%d' % (i,j+1)]:
+        row.val = p["nt%s_att%d_level" % (1,j+1)]  
+  if i == 2:
+    for j,row in enumerate(Q_ISDT_SEARCH_[loopvar: task]_NT[loopvar: NTmiddle].rows):
+      if res['C%d_Attribute_%d' % (i,j+1)]:
+        row.val = p["nt%s_att%d_level" % (2,j+1)]
+  if i == 3:
+    for j,row in enumerate(Q_ISDT_SEARCH_[loopvar: task]_NT[loopvar: NTright].rows):
+      if res['C%d_Attribute_%d' % (i,j+1)]:
+        row.val = p["nt%s_att%d_level" % (3,j+1)]
+    </exec>
+
+    <number 
+    label="Q_ISDT_SEARCH_[loopvar: task]_NT[loopvar: NTleft]"
+    cond="int(res.Total_Columns) gt 0"
+    size="3"
+    where="execute,survey,report">
+      <title>Source 1 Level</title>
+      <row label="r1" cond="res.C1_Attribute_1">Attribute 1</row>
+      <row label="r2" cond="res.C1_Attribute_2">Attribute 2</row>
+      <row label="r3" cond="res.C1_Attribute_3">Attribute 3</row>
+      <row label="r4" cond="res.C1_Attribute_4">Attribute 4</row>
+      <row label="r5" cond="res.C1_Attribute_5">Attribute 5</row>
+      <row label="r6" cond="res.C1_Attribute_6">Attribute 6</row>
+      <row label="r7" cond="res.C1_Attribute_7">Attribute 7</row>
+      <row label="r8" cond="res.C1_Attribute_8">Attribute 8</row>
+    </number>
+
+    <number 
+    label="Q_ISDT_SEARCH_[loopvar: task]_NT[loopvar: NTmiddle]"
+    cond="int(res.Total_Columns) gt 1"
+    size="3"
+    where="execute,survey,report">
+      <title>Source 2 Level</title>
+      <row label="r1" cond="res.C2_Attribute_1">Attribute 1</row>
+      <row label="r2" cond="res.C2_Attribute_2">Attribute 2</row>
+      <row label="r3" cond="res.C2_Attribute_3">Attribute 3</row>
+      <row label="r4" cond="res.C2_Attribute_4">Attribute 4</row>
+      <row label="r5" cond="res.C2_Attribute_5">Attribute 5</row>
+      <row label="r6" cond="res.C2_Attribute_6">Attribute 6</row>
+      <row label="r7" cond="res.C2_Attribute_7">Attribute 7</row>
+      <row label="r8" cond="res.C2_Attribute_8">Attribute 8</row>
+    </number>
+
+    <number 
+    label="Q_ISDT_SEARCH_[loopvar: task]_NT[loopvar: NTright]"
+    cond="int(res.Total_Columns) gt 2"
+    size="3"
+    where="execute,survey,report">
+      <title>Source 3 Level</title>
+      <row label="r1" cond="res.C3_Attribute_1">Attribute 1</row>
+      <row label="r2" cond="res.C3_Attribute_2">Attribute 2</row>
+      <row label="r3" cond="res.C3_Attribute_3">Attribute 3</row>
+      <row label="r4" cond="res.C3_Attribute_4">Attribute 4</row>
+      <row label="r5" cond="res.C3_Attribute_5">Attribute 5</row>
+      <row label="r6" cond="res.C3_Attribute_6">Attribute 6</row>
+      <row label="r7" cond="res.C3_Attribute_7">Attribute 7</row>
+      <row label="r8" cond="res.C3_Attribute_8">Attribute 8</row>
+    </number>
+
+    <suspend/>
+
+    <note>Finalize ranks and times to be recorded.
+
+Formula for getting time between last click in the matrix and the next button:
+
+(Total Time on Page) - (Time on page before first click) - (Sum of all click times)
+
+Also adding click variable here</note>
+    <note>Total time on search matrix page</note>
+    <float 
+    label="Time_ISM_[loopvar: label]"
+    optional="0"
+    where="execute,survey">
+      <title>Time ISM [loopvar: label]</title>
+      <exec>
+stop_time = timeSpent() 
+end_time = stop_time - p.ism_start_time 
+Time_ISM_[loopvar: label].val = end_time
+      </exec>
+
+    </float>
+
+    <note>Made it a survey question just in case, could easily just be stored in Python variable</note>
+    <float 
+    label="Total_Click_Time_[loopvar: label]"
+    optional="0"
+    where="execute,survey">
+      <title>Total Click Time [loopvar: label]</title>
+      <exec>
+total_time = 0
+total_time += float(medication1_attribute1_[loopvar: label].r1.ival)
+total_time += float(medication1_attribute2_[loopvar: label].r1.ival)
+total_time += float(medication1_attribute3_[loopvar: label].r1.ival)
+total_time += float(medication1_attribute4_[loopvar: label].r1.ival)
+total_time += float(medication1_attribute5_[loopvar: label].r1.ival)
+total_time += float(medication1_attribute6_[loopvar: label].r1.ival)
+total_time += float(medication1_attribute7_[loopvar: label].r1.ival)
+total_time += float(medication1_attribute8_[loopvar: label].r1.ival)
+total_time += float(medication2_attribute1_[loopvar: label].r1.ival)
+total_time += float(medication2_attribute2_[loopvar: label].r1.ival)
+total_time += float(medication2_attribute3_[loopvar: label].r1.ival)
+total_time += float(medication2_attribute4_[loopvar: label].r1.ival)
+total_time += float(medication2_attribute5_[loopvar: label].r1.ival)
+total_time += float(medication2_attribute6_[loopvar: label].r1.ival)
+total_time += float(medication2_attribute7_[loopvar: label].r1.ival)
+total_time += float(medication2_attribute8_[loopvar: label].r1.ival)
+total_time += float(medication3_attribute1_[loopvar: label].r1.ival)
+total_time += float(medication3_attribute2_[loopvar: label].r1.ival)
+total_time += float(medication3_attribute3_[loopvar: label].r1.ival)
+total_time += float(medication3_attribute4_[loopvar: label].r1.ival)
+total_time += float(medication3_attribute5_[loopvar: label].r1.ival)
+total_time += float(medication3_attribute6_[loopvar: label].r1.ival)
+total_time += float(medication3_attribute7_[loopvar: label].r1.ival)
+total_time += float(medication3_attribute8_[loopvar: label].r1.ival)
+
+Total_Click_Time_[loopvar: label].val = total_time
+      </exec>
+
+    </float>
+
+    <float 
+    label="FINAL_medication1_attribute1_[loopvar: label]"
+    cond="res.C1_Attribute_1 and res.Total_Columns gt '0'"
+    where="execute,survey,report">
+      <title>Time of medication 1, attribute 1 click</title>
+      <exec>
+# record rank
+FINAL_medication1_attribute1_[loopvar: label].r2.val = medication1_attribute1_[loopvar: label].r2.val
+
+# if rank value set but not time, we have our last ranked matrix cell
+if medication1_attribute1_[loopvar: label].r2.val and not medication1_attribute1_[loopvar: label].r1.val:
+  FINAL_medication1_attribute1_[loopvar: label].r1.val = float(Time_ISM_[loopvar: label].ival) - float(Total_Click_Time_[loopvar: label].ival) - float(page_start_time_[loopvar: label].r1.ival)
+else:
+  FINAL_medication1_attribute1_[loopvar: label].r1.val = medication1_attribute1_[loopvar: label].r1.val
+
+if FINAL_medication1_attribute1_[loopvar: label].r2.val and FINAL_medication1_attribute1_[loopvar: label].r1.val:
+  FINAL_medication1_attribute1_[loopvar: label].r3.val = 1
+else:
+  FINAL_medication1_attribute1_[loopvar: label].r3.val = 0
+      </exec>
+
+      <row label="r1">time</row>
+      <row label="r2">rank</row>
+      <row label="r3">click</row>
+    </float>
+
+    <float 
+    label="FINAL_medication1_attribute2_[loopvar: label]"
+    cond="res.C1_Attribute_2 and res.Total_Columns gt '0'"
+    where="execute,survey,report">
+      <title>Time of medication 1, attribute 2 click</title>
+      <exec>
+FINAL_medication1_attribute2_[loopvar: label].r2.val = medication1_attribute2_[loopvar: label].r2.val
+
+if medication1_attribute2_[loopvar: label].r2.val and not medication1_attribute2_[loopvar: label].r1.val:
+  FINAL_medication1_attribute2_[loopvar: label].r1.val = float(Time_ISM_[loopvar: label].ival) - float(Total_Click_Time_[loopvar: label].ival) - float(page_start_time_[loopvar: label].r1.ival)
+else:
+  FINAL_medication1_attribute2_[loopvar: label].r1.val = medication1_attribute2_[loopvar: label].r1.val
+
+if FINAL_medication1_attribute2_[loopvar: label].r2.val and FINAL_medication1_attribute2_[loopvar: label].r1.val:
+  FINAL_medication1_attribute2_[loopvar: label].r3.val = 1
+else:
+  FINAL_medication1_attribute2_[loopvar: label].r3.val = 0
+      </exec>
+
+      <row label="r1">time</row>
+      <row label="r2">rank</row>
+      <row label="r3">click</row>
+    </float>
+
+    <float 
+    label="FINAL_medication1_attribute3_[loopvar: label]"
+    cond="res.C1_Attribute_3 and res.Total_Columns gt '0'"
+    where="execute,survey,report">
+      <title>Time of medication 1, attribute 3 click</title>
+      <exec>
+FINAL_medication1_attribute3_[loopvar: label].r2.val = medication1_attribute3_[loopvar: label].r2.val
+
+if medication1_attribute3_[loopvar: label].r2.val and not medication1_attribute3_[loopvar: label].r1.val:
+  FINAL_medication1_attribute3_[loopvar: label].r1.val = float(Time_ISM_[loopvar: label].ival) - float(Total_Click_Time_[loopvar: label].ival) - float(page_start_time_[loopvar: label].r1.ival)
+else:
+  FINAL_medication1_attribute3_[loopvar: label].r1.val = medication1_attribute3_[loopvar: label].r1.val
+
+if FINAL_medication1_attribute3_[loopvar: label].r2.val and FINAL_medication1_attribute3_[loopvar: label].r1.val:
+  FINAL_medication1_attribute3_[loopvar: label].r3.val = 1
+else:
+  FINAL_medication1_attribute3_[loopvar: label].r3.val = 0
+      </exec>
+
+      <row label="r1">time</row>
+      <row label="r2">rank</row>
+      <row label="r3">click</row>
+    </float>
+
+    <float 
+    label="FINAL_medication1_attribute4_[loopvar: label]"
+    cond="res.C1_Attribute_4 and res.Total_Columns gt '0'"
+    where="execute,survey,report">
+      <title>Time of medication 1, attribute 4 click</title>
+      <exec>
+FINAL_medication1_attribute4_[loopvar: label].r2.val = medication1_attribute4_[loopvar: label].r2.val
+
+if medication1_attribute4_[loopvar: label].r2.val and not medication1_attribute4_[loopvar: label].r1.val:
+  FINAL_medication1_attribute4_[loopvar: label].r1.val = float(Time_ISM_[loopvar: label].ival) - float(Total_Click_Time_[loopvar: label].ival) - float(page_start_time_[loopvar: label].r1.ival)
+else:
+  FINAL_medication1_attribute4_[loopvar: label].r1.val = medication1_attribute4_[loopvar: label].r1.val
+
+if FINAL_medication1_attribute4_[loopvar: label].r2.val and FINAL_medication1_attribute4_[loopvar: label].r1.val:
+  FINAL_medication1_attribute4_[loopvar: label].r3.val = 1
+else:
+  FINAL_medication1_attribute4_[loopvar: label].r3.val = 0
+      </exec>
+
+      <row label="r1">time</row>
+      <row label="r2">rank</row>
+      <row label="r3">click</row>
+    </float>
+
+    <float 
+    label="FINAL_medication1_attribute5_[loopvar: label]"
+    cond="res.C1_Attribute_5 and res.Total_Columns gt '0'"
+    where="execute,survey,report">
+      <title>Time of medication 1, attribute 5 click</title>
+      <exec>
+FINAL_medication1_attribute5_[loopvar: label].r2.val = medication1_attribute5_[loopvar: label].r2.val
+
+if medication1_attribute5_[loopvar: label].r2.val and not medication1_attribute5_[loopvar: label].r1.val:
+  FINAL_medication1_attribute5_[loopvar: label].r1.val = float(Time_ISM_[loopvar: label].ival) - float(Total_Click_Time_[loopvar: label].ival) - float(page_start_time_[loopvar: label].r1.ival)
+else:
+  FINAL_medication1_attribute5_[loopvar: label].r1.val = medication1_attribute5_[loopvar: label].r1.val
+
+if FINAL_medication1_attribute5_[loopvar: label].r2.val and FINAL_medication1_attribute5_[loopvar: label].r1.val:
+  FINAL_medication1_attribute5_[loopvar: label].r3.val = 1
+else:
+  FINAL_medication1_attribute5_[loopvar: label].r3.val = 0
+      </exec>
+
+      <row label="r1">time</row>
+      <row label="r2">rank</row>
+      <row label="r3">click</row>
+    </float>
+
+    <float 
+    label="FINAL_medication1_attribute6_[loopvar: label]"
+    cond="res.C1_Attribute_6 and res.Total_Columns gt '0'"
+    where="execute,survey,report">
+      <title>Time of medication 1, attribute 6 click</title>
+      <exec>
+FINAL_medication1_attribute6_[loopvar: label].r2.val = medication1_attribute6_[loopvar: label].r2.val
+
+if medication1_attribute6_[loopvar: label].r2.val and not medication1_attribute6_[loopvar: label].r1.val:
+  FINAL_medication1_attribute6_[loopvar: label].r1.val = float(Time_ISM_[loopvar: label].ival) - float(Total_Click_Time_[loopvar: label].ival) - float(page_start_time_[loopvar: label].r1.ival)
+else:
+  FINAL_medication1_attribute6_[loopvar: label].r1.val = medication1_attribute6_[loopvar: label].r1.val
+
+if FINAL_medication1_attribute6_[loopvar: label].r2.val and FINAL_medication1_attribute6_[loopvar: label].r1.val:
+  FINAL_medication1_attribute6_[loopvar: label].r3.val = 1
+else:
+  FINAL_medication1_attribute6_[loopvar: label].r3.val = 0
+      </exec>
+
+      <row label="r1">time</row>
+      <row label="r2">rank</row>
+      <row label="r3">click</row>
+    </float>
+
+    <float 
+    label="FINAL_medication1_attribute7_[loopvar: label]"
+    cond="res.C1_Attribute_7 and res.Total_Columns gt '0'"
+    where="execute,survey,report">
+      <title>Time of medication 1, attribute 7 click</title>
+      <exec>
+FINAL_medication1_attribute7_[loopvar: label].r2.val = medication1_attribute7_[loopvar: label].r2.val
+
+if medication1_attribute7_[loopvar: label].r2.val and not medication1_attribute7_[loopvar: label].r1.val:
+  FINAL_medication1_attribute7_[loopvar: label].r1.val = float(Time_ISM_[loopvar: label].ival) - float(Total_Click_Time_[loopvar: label].ival) - float(page_start_time_[loopvar: label].r1.ival)
+else:
+  FINAL_medication1_attribute7_[loopvar: label].r1.val = medication1_attribute7_[loopvar: label].r1.val
+
+if FINAL_medication1_attribute7_[loopvar: label].r2.val and FINAL_medication1_attribute7_[loopvar: label].r1.val:
+  FINAL_medication1_attribute7_[loopvar: label].r3.val = 1
+else:
+  FINAL_medication1_attribute7_[loopvar: label].r3.val = 0
+      </exec>
+
+      <row label="r1">time</row>
+      <row label="r2">rank</row>
+      <row label="r3">click</row>
+    </float>
+
+    <float 
+    label="FINAL_medication1_attribute8_[loopvar: label]"
+    cond="res.C1_Attribute_8 and res.Total_Columns gt '0'"
+    where="execute,survey,report">
+      <title>Time of medication 1, attribute 8 click</title>
+      <exec>
+FINAL_medication1_attribute8_[loopvar: label].r2.val = medication1_attribute8_[loopvar: label].r2.val
+
+if medication1_attribute8_[loopvar: label].r2.val and not medication1_attribute8_[loopvar: label].r1.val:
+  FINAL_medication1_attribute8_[loopvar: label].r1.val = float(Time_ISM_[loopvar: label].ival) - float(Total_Click_Time_[loopvar: label].ival) - float(page_start_time_[loopvar: label].r1.ival)
+else:
+  FINAL_medication1_attribute8_[loopvar: label].r1.val = medication1_attribute8_[loopvar: label].r1.val
+
+if FINAL_medication1_attribute8_[loopvar: label].r2.val and FINAL_medication1_attribute8_[loopvar: label].r1.val:
+  FINAL_medication1_attribute8_[loopvar: label].r3.val = 1
+else:
+  FINAL_medication1_attribute8_[loopvar: label].r3.val = 0
+      </exec>
+
+      <row label="r1">time</row>
+      <row label="r2">rank</row>
+      <row label="r3">click</row>
+    </float>
+
+    <float 
+    label="FINAL_medication2_attribute1_[loopvar: label]"
+    cond="res.C2_Attribute_1 and res.Total_Columns gt '1'"
+    where="execute,survey,report">
+      <title>Time of medication 2, attribute 1 click</title>
+      <exec>
+FINAL_medication2_attribute1_[loopvar: label].r2.val = medication2_attribute1_[loopvar: label].r2.val
+
+if medication2_attribute1_[loopvar: label].r2.val and not medication2_attribute1_[loopvar: label].r1.val:
+  FINAL_medication2_attribute1_[loopvar: label].r1.val = float(Time_ISM_[loopvar: label].ival) - float(Total_Click_Time_[loopvar: label].ival) - float(page_start_time_[loopvar: label].r1.ival)
+else:
+  FINAL_medication2_attribute1_[loopvar: label].r1.val = medication2_attribute1_[loopvar: label].r1.val
+
+if FINAL_medication2_attribute1_[loopvar: label].r2.val and FINAL_medication2_attribute1_[loopvar: label].r1.val:
+  FINAL_medication2_attribute1_[loopvar: label].r3.val = 1
+else:
+  FINAL_medication2_attribute1_[loopvar: label].r3.val = 0
+      </exec>
+
+      <row label="r1">time</row>
+      <row label="r2">rank</row>
+      <row label="r3">click</row>
+    </float>
+
+    <float 
+    label="FINAL_medication2_attribute2_[loopvar: label]"
+    cond="res.C2_Attribute_2 and res.Total_Columns gt '1'"
+    where="execute,survey,report">
+      <title>Time of medication 2, attribute 2 click</title>
+      <exec>
+FINAL_medication2_attribute2_[loopvar: label].r2.val = medication2_attribute2_[loopvar: label].r2.val
+
+if medication2_attribute2_[loopvar: label].r2.val and not medication2_attribute2_[loopvar: label].r1.val:
+  FINAL_medication2_attribute2_[loopvar: label].r1.val = float(Time_ISM_[loopvar: label].ival) - float(Total_Click_Time_[loopvar: label].ival) - float(page_start_time_[loopvar: label].r1.ival)
+else:
+  FINAL_medication2_attribute2_[loopvar: label].r1.val = medication2_attribute2_[loopvar: label].r1.val
+
+if FINAL_medication2_attribute2_[loopvar: label].r2.val and FINAL_medication2_attribute2_[loopvar: label].r1.val:
+  FINAL_medication2_attribute2_[loopvar: label].r3.val = 1
+else:
+  FINAL_medication2_attribute2_[loopvar: label].r3.val = 0
+      </exec>
+
+      <row label="r1">time</row>
+      <row label="r2">rank</row>
+      <row label="r3">click</row>
+    </float>
+
+    <float 
+    label="FINAL_medication2_attribute3_[loopvar: label]"
+    cond="res.C2_Attribute_3 and res.Total_Columns gt '1'"
+    where="execute,survey,report">
+      <title>Time of medication 2, attribute 3 click</title>
+      <exec>
+FINAL_medication2_attribute3_[loopvar: label].r2.val = medication2_attribute3_[loopvar: label].r2.val
+
+if medication2_attribute3_[loopvar: label].r2.val and not medication2_attribute3_[loopvar: label].r1.val:
+  FINAL_medication2_attribute3_[loopvar: label].r1.val = float(Time_ISM_[loopvar: label].ival) - float(Total_Click_Time_[loopvar: label].ival) - float(page_start_time_[loopvar: label].r1.ival)
+else:
+  FINAL_medication2_attribute3_[loopvar: label].r1.val = medication2_attribute3_[loopvar: label].r1.val
+
+if FINAL_medication2_attribute3_[loopvar: label].r2.val and FINAL_medication2_attribute3_[loopvar: label].r1.val:
+  FINAL_medication2_attribute3_[loopvar: label].r3.val = 1
+else:
+  FINAL_medication2_attribute3_[loopvar: label].r3.val = 0
+      </exec>
+
+      <row label="r1">time</row>
+      <row label="r2">rank</row>
+      <row label="r3">click</row>
+    </float>
+
+    <float 
+    label="FINAL_medication2_attribute4_[loopvar: label]"
+    cond="res.C2_Attribute_4 and res.Total_Columns gt '1'"
+    where="execute,survey,report">
+      <title>Time of medication 2, attribute 4 click</title>
+      <exec>
+FINAL_medication2_attribute4_[loopvar: label].r2.val = medication2_attribute4_[loopvar: label].r2.val
+
+if medication2_attribute4_[loopvar: label].r2.val and not medication2_attribute4_[loopvar: label].r1.val:
+  FINAL_medication2_attribute4_[loopvar: label].r1.val = float(Time_ISM_[loopvar: label].ival) - float(Total_Click_Time_[loopvar: label].ival) - float(page_start_time_[loopvar: label].r1.ival)
+else:
+  FINAL_medication2_attribute4_[loopvar: label].r1.val = medication2_attribute4_[loopvar: label].r1.val
+
+if FINAL_medication2_attribute4_[loopvar: label].r2.val and FINAL_medication2_attribute4_[loopvar: label].r1.val:
+  FINAL_medication2_attribute4_[loopvar: label].r3.val = 1
+else:
+  FINAL_medication2_attribute4_[loopvar: label].r3.val = 0
+      </exec>
+
+      <row label="r1">time</row>
+      <row label="r2">rank</row>
+      <row label="r3">click</row>
+    </float>
+
+    <float 
+    label="FINAL_medication2_attribute5_[loopvar: label]"
+    cond="res.C2_Attribute_5 and res.Total_Columns gt '1'"
+    where="execute,survey,report">
+      <title>Time of medication 2, attribute 5 click</title>
+      <exec>
+FINAL_medication2_attribute5_[loopvar: label].r2.val = medication2_attribute5_[loopvar: label].r2.val
+
+if medication2_attribute5_[loopvar: label].r2.val and not medication2_attribute5_[loopvar: label].r1.val:
+  FINAL_medication2_attribute5_[loopvar: label].r1.val = float(Time_ISM_[loopvar: label].ival) - float(Total_Click_Time_[loopvar: label].ival) - float(page_start_time_[loopvar: label].r1.ival)
+else:
+  FINAL_medication2_attribute5_[loopvar: label].r1.val = medication2_attribute5_[loopvar: label].r1.val
+
+if FINAL_medication2_attribute5_[loopvar: label].r2.val and FINAL_medication2_attribute5_[loopvar: label].r1.val:
+  FINAL_medication2_attribute5_[loopvar: label].r3.val = 1
+else:
+  FINAL_medication2_attribute5_[loopvar: label].r3.val = 0
+      </exec>
+
+      <row label="r1">time</row>
+      <row label="r2">rank</row>
+      <row label="r3">click</row>
+    </float>
+
+    <float 
+    label="FINAL_medication2_attribute6_[loopvar: label]"
+    cond="res.C2_Attribute_6 and res.Total_Columns gt '1'"
+    where="execute,survey,report">
+      <title>Time of medication 2, attribute 6 click</title>
+      <exec>
+FINAL_medication2_attribute6_[loopvar: label].r2.val = medication2_attribute6_[loopvar: label].r2.val
+
+if medication2_attribute6_[loopvar: label].r2.val and not medication2_attribute6_[loopvar: label].r1.val:
+  FINAL_medication2_attribute6_[loopvar: label].r1.val = float(Time_ISM_[loopvar: label].ival) - float(Total_Click_Time_[loopvar: label].ival) - float(page_start_time_[loopvar: label].r1.ival)
+else:
+  FINAL_medication2_attribute6_[loopvar: label].r1.val = medication2_attribute6_[loopvar: label].r1.val
+
+if FINAL_medication2_attribute6_[loopvar: label].r2.val and FINAL_medication2_attribute6_[loopvar: label].r1.val:
+  FINAL_medication2_attribute6_[loopvar: label].r3.val = 1
+else:
+  FINAL_medication2_attribute6_[loopvar: label].r3.val = 0
+      </exec>
+
+      <row label="r1">time</row>
+      <row label="r2">rank</row>
+      <row label="r3">click</row>
+    </float>
+
+    <float 
+    label="FINAL_medication2_attribute7_[loopvar: label]"
+    cond="res.C2_Attribute_7 and res.Total_Columns gt '1'"
+    where="execute,survey,report">
+      <title>Time of medication 2, attribute 7 click</title>
+      <exec>
+FINAL_medication2_attribute7_[loopvar: label].r2.val = medication2_attribute7_[loopvar: label].r2.val
+
+if medication2_attribute7_[loopvar: label].r2.val and not medication2_attribute7_[loopvar: label].r1.val:
+  FINAL_medication2_attribute7_[loopvar: label].r1.val = float(Time_ISM_[loopvar: label].ival) - float(Total_Click_Time_[loopvar: label].ival) - float(page_start_time_[loopvar: label].r1.ival)
+else:
+  FINAL_medication2_attribute7_[loopvar: label].r1.val = medication2_attribute7_[loopvar: label].r1.val
+
+if FINAL_medication2_attribute7_[loopvar: label].r2.val and FINAL_medication2_attribute7_[loopvar: label].r1.val:
+  FINAL_medication2_attribute7_[loopvar: label].r3.val = 1
+else:
+  FINAL_medication2_attribute7_[loopvar: label].r3.val = 0
+      </exec>
+
+      <row label="r1">time</row>
+      <row label="r2">rank</row>
+      <row label="r3">click</row>
+    </float>
+
+    <float 
+    label="FINAL_medication2_attribute8_[loopvar: label]"
+    cond="res.C2_Attribute_8 and res.Total_Columns gt '1'"
+    where="execute,survey,report">
+      <title>Time of medication 2, attribute 8 click</title>
+      <exec>
+FINAL_medication2_attribute8_[loopvar: label].r2.val = medication2_attribute8_[loopvar: label].r2.val
+
+if medication2_attribute8_[loopvar: label].r2.val and not medication2_attribute8_[loopvar: label].r1.val:
+  FINAL_medication2_attribute8_[loopvar: label].r1.val = float(Time_ISM_[loopvar: label].ival) - float(Total_Click_Time_[loopvar: label].ival) - float(page_start_time_[loopvar: label].r1.ival)
+else:
+  FINAL_medication2_attribute8_[loopvar: label].r1.val = medication2_attribute8_[loopvar: label].r1.val
+
+if FINAL_medication2_attribute8_[loopvar: label].r2.val and FINAL_medication2_attribute8_[loopvar: label].r1.val:
+  FINAL_medication2_attribute8_[loopvar: label].r3.val = 1
+else:
+  FINAL_medication2_attribute8_[loopvar: label].r3.val = 0
+      </exec>
+
+      <row label="r1">time</row>
+      <row label="r2">rank</row>
+      <row label="r3">click</row>
+    </float>
+
+    <float 
+    label="FINAL_medication3_attribute1_[loopvar: label]"
+    cond="res.C3_Attribute_1 and res.Total_Columns gt '2'"
+    where="execute,survey,report">
+      <title>Time of medication 3, attribute 1 click</title>
+      <exec>
+FINAL_medication3_attribute1_[loopvar: label].r2.val = medication3_attribute1_[loopvar: label].r2.val
+
+if medication3_attribute1_[loopvar: label].r2.val and not medication3_attribute1_[loopvar: label].r1.val:
+  FINAL_medication3_attribute1_[loopvar: label].r1.val = float(Time_ISM_[loopvar: label].ival) - float(Total_Click_Time_[loopvar: label].ival) - float(page_start_time_[loopvar: label].r1.ival)
+else:
+  FINAL_medication3_attribute1_[loopvar: label].r1.val = medication3_attribute1_[loopvar: label].r1.val
+
+if FINAL_medication3_attribute1_[loopvar: label].r2.val and FINAL_medication3_attribute1_[loopvar: label].r1.val:
+  FINAL_medication3_attribute1_[loopvar: label].r3.val = 1
+else:
+  FINAL_medication3_attribute1_[loopvar: label].r3.val = 0
+      </exec>
+
+      <row label="r1">time</row>
+      <row label="r2">rank</row>
+      <row label="r3">click</row>
+    </float>
+
+    <float 
+    label="FINAL_medication3_attribute2_[loopvar: label]"
+    cond="res.C3_Attribute_2 and res.Total_Columns gt '2'"
+    where="execute,survey,report">
+      <title>Time of medication 3, attribute 2 click</title>
+      <exec>
+FINAL_medication3_attribute2_[loopvar: label].r2.val = medication3_attribute2_[loopvar: label].r2.val
+
+if medication3_attribute2_[loopvar: label].r2.val and not medication3_attribute2_[loopvar: label].r1.val:
+  FINAL_medication3_attribute2_[loopvar: label].r1.val = float(Time_ISM_[loopvar: label].ival) - float(Total_Click_Time_[loopvar: label].ival) - float(page_start_time_[loopvar: label].r1.ival)
+else:
+  FINAL_medication3_attribute2_[loopvar: label].r1.val = medication3_attribute2_[loopvar: label].r1.val
+
+if FINAL_medication3_attribute2_[loopvar: label].r2.val and FINAL_medication3_attribute2_[loopvar: label].r1.val:
+  FINAL_medication3_attribute2_[loopvar: label].r3.val = 1
+else:
+  FINAL_medication3_attribute2_[loopvar: label].r3.val = 0
+      </exec>
+
+      <row label="r1">time</row>
+      <row label="r2">rank</row>
+      <row label="r3">click</row>
+    </float>
+
+    <float 
+    label="FINAL_medication3_attribute3_[loopvar: label]"
+    cond="res.C3_Attribute_3 and res.Total_Columns gt '2'"
+    where="execute,survey,report">
+      <title>Time of medication 3, attribute 3 click</title>
+      <exec>
+FINAL_medication3_attribute3_[loopvar: label].r2.val = medication3_attribute3_[loopvar: label].r2.val
+
+if medication3_attribute3_[loopvar: label].r2.val and not medication3_attribute3_[loopvar: label].r1.val:
+  FINAL_medication3_attribute3_[loopvar: label].r1.val = float(Time_ISM_[loopvar: label].ival) - float(Total_Click_Time_[loopvar: label].ival) - float(page_start_time_[loopvar: label].r1.ival)
+else:
+  FINAL_medication3_attribute3_[loopvar: label].r1.val = medication3_attribute3_[loopvar: label].r1.val
+
+if FINAL_medication3_attribute3_[loopvar: label].r2.val and FINAL_medication3_attribute3_[loopvar: label].r1.val:
+  FINAL_medication3_attribute3_[loopvar: label].r3.val = 1
+else:
+  FINAL_medication3_attribute3_[loopvar: label].r3.val = 0
+      </exec>
+
+      <row label="r1">time</row>
+      <row label="r2">rank</row>
+      <row label="r3">click</row>
+    </float>
+
+    <float 
+    label="FINAL_medication3_attribute4_[loopvar: label]"
+    cond="res.C3_Attribute_4 and res.Total_Columns gt '2'"
+    where="execute,survey,report">
+      <title>Time of medication 3, attribute 4 click</title>
+      <exec>
+FINAL_medication3_attribute4_[loopvar: label].r2.val = medication3_attribute4_[loopvar: label].r2.val
+
+if medication3_attribute4_[loopvar: label].r2.val and not medication3_attribute4_[loopvar: label].r1.val:
+  FINAL_medication3_attribute4_[loopvar: label].r1.val = float(Time_ISM_[loopvar: label].ival) - float(Total_Click_Time_[loopvar: label].ival) - float(page_start_time_[loopvar: label].r1.ival)
+else:
+  FINAL_medication3_attribute4_[loopvar: label].r1.val = medication3_attribute4_[loopvar: label].r1.val
+
+if FINAL_medication3_attribute4_[loopvar: label].r2.val and FINAL_medication3_attribute4_[loopvar: label].r1.val:
+  FINAL_medication3_attribute4_[loopvar: label].r3.val = 1
+else:
+  FINAL_medication3_attribute4_[loopvar: label].r3.val = 0
+      </exec>
+
+      <row label="r1">time</row>
+      <row label="r2">rank</row>
+      <row label="r3">click</row>
+    </float>
+
+    <float 
+    label="FINAL_medication3_attribute5_[loopvar: label]"
+    cond="res.C3_Attribute_5 and res.Total_Columns gt '2'"
+    where="execute,survey,report">
+      <title>Time of medication 3, attribute 5 click</title>
+      <exec>
+FINAL_medication3_attribute5_[loopvar: label].r2.val = medication3_attribute5_[loopvar: label].r2.val
+
+if medication3_attribute5_[loopvar: label].r2.val and not medication3_attribute5_[loopvar: label].r1.val:
+  FINAL_medication3_attribute5_[loopvar: label].r1.val = float(Time_ISM_[loopvar: label].ival) - float(Total_Click_Time_[loopvar: label].ival) - float(page_start_time_[loopvar: label].r1.ival)
+else:
+  FINAL_medication3_attribute5_[loopvar: label].r1.val = medication3_attribute5_[loopvar: label].r1.val
+
+if FINAL_medication3_attribute5_[loopvar: label].r2.val and FINAL_medication3_attribute5_[loopvar: label].r1.val:
+  FINAL_medication3_attribute5_[loopvar: label].r3.val = 1
+else:
+  FINAL_medication3_attribute5_[loopvar: label].r3.val = 0
+      </exec>
+
+      <row label="r1">time</row>
+      <row label="r2">rank</row>
+      <row label="r3">click</row>
+    </float>
+
+    <float 
+    label="FINAL_medication3_attribute6_[loopvar: label]"
+    cond="res.C3_Attribute_6 and res.Total_Columns gt '2'"
+    where="execute,survey,report">
+      <title>Time of medication 3, attribute 6 click</title>
+      <exec>
+FINAL_medication3_attribute6_[loopvar: label].r2.val = medication3_attribute6_[loopvar: label].r2.val
+
+if medication3_attribute6_[loopvar: label].r2.val and not medication3_attribute6_[loopvar: label].r1.val:
+  FINAL_medication3_attribute6_[loopvar: label].r1.val = float(Time_ISM_[loopvar: label].ival) - float(Total_Click_Time_[loopvar: label].ival) - float(page_start_time_[loopvar: label].r1.ival)
+else:
+  FINAL_medication3_attribute6_[loopvar: label].r1.val = medication3_attribute6_[loopvar: label].r1.val
+
+if FINAL_medication3_attribute6_[loopvar: label].r2.val and FINAL_medication3_attribute6_[loopvar: label].r1.val:
+  FINAL_medication3_attribute6_[loopvar: label].r3.val = 1
+else:
+  FINAL_medication3_attribute6_[loopvar: label].r3.val = 0
+      </exec>
+
+      <row label="r1">time</row>
+      <row label="r2">rank</row>
+      <row label="r3">click</row>
+    </float>
+
+    <float 
+    label="FINAL_medication3_attribute7_[loopvar: label]"
+    cond="res.C3_Attribute_7 and res.Total_Columns gt '2'"
+    where="execute,survey,report">
+      <title>Time of medication 3, attribute 7 click</title>
+      <exec>
+FINAL_medication3_attribute7_[loopvar: label].r2.val = medication3_attribute7_[loopvar: label].r2.val
+
+if medication3_attribute7_[loopvar: label].r2.val and not medication3_attribute7_[loopvar: label].r1.val:
+  FINAL_medication3_attribute7_[loopvar: label].r1.val = float(Time_ISM_[loopvar: label].ival) - float(Total_Click_Time_[loopvar: label].ival) - float(page_start_time_[loopvar: label].r1.ival)
+else:
+  FINAL_medication3_attribute7_[loopvar: label].r1.val = medication3_attribute7_[loopvar: label].r1.val
+
+if FINAL_medication3_attribute7_[loopvar: label].r2.val and FINAL_medication3_attribute7_[loopvar: label].r1.val:
+  FINAL_medication3_attribute7_[loopvar: label].r3.val = 1
+else:
+  FINAL_medication3_attribute7_[loopvar: label].r3.val = 0
+      </exec>
+
+      <row label="r1">time</row>
+      <row label="r2">rank</row>
+      <row label="r3">click</row>
+    </float>
+
+    <float 
+    label="FINAL_medication3_attribute8_[loopvar: label]"
+    cond="res.C3_Attribute_8 and res.Total_Columns gt '2'"
+    where="execute,survey,report">
+      <title>Time of medication 3, attribute 8 click</title>
+      <exec>
+FINAL_medication3_attribute8_[loopvar: label].r2.val = medication3_attribute8_[loopvar: label].r2.val
+
+if medication3_attribute8_[loopvar: label].r2.val and not medication3_attribute8_[loopvar: label].r1.val:
+  FINAL_medication3_attribute8_[loopvar: label].r1.val = float(Time_ISM_[loopvar: label].ival) - float(Total_Click_Time_[loopvar: label].ival) - float(page_start_time_[loopvar: label].r1.ival)
+else:
+  FINAL_medication3_attribute8_[loopvar: label].r1.val = medication3_attribute8_[loopvar: label].r1.val
+
+if FINAL_medication3_attribute8_[loopvar: label].r2.val and FINAL_medication3_attribute8_[loopvar: label].r1.val:
+  FINAL_medication3_attribute8_[loopvar: label].r3.val = 1
+else:
+  FINAL_medication3_attribute8_[loopvar: label].r3.val = 0
+      </exec>
+
+      <row label="r1">time</row>
+      <row label="r2">rank</row>
+      <row label="r3">click</row>
+    </float>
+
+    <suspend/>
+
+    <exec>
+p['medication1_attribute1'] = FINAL_medication1_attribute1_[loopvar: label].r2.val
+p['medication1_attribute2'] = FINAL_medication1_attribute2_[loopvar: label].r2.val
+p['medication1_attribute3'] = FINAL_medication1_attribute3_[loopvar: label].r2.val
+p['medication1_attribute4'] = FINAL_medication1_attribute4_[loopvar: label].r2.val
+p['medication1_attribute5'] = FINAL_medication1_attribute5_[loopvar: label].r2.val
+p['medication1_attribute6'] = FINAL_medication1_attribute6_[loopvar: label].r2.val
+p['medication1_attribute7'] = FINAL_medication1_attribute7_[loopvar: label].r2.val
+p['medication1_attribute8'] = FINAL_medication1_attribute8_[loopvar: label].r2.val
+p['medication2_attribute1'] = FINAL_medication2_attribute1_[loopvar: label].r2.val
+p['medication2_attribute2'] = FINAL_medication2_attribute2_[loopvar: label].r2.val
+p['medication2_attribute3'] = FINAL_medication2_attribute3_[loopvar: label].r2.val
+p['medication2_attribute4'] = FINAL_medication2_attribute4_[loopvar: label].r2.val
+p['medication2_attribute5'] = FINAL_medication2_attribute5_[loopvar: label].r2.val
+p['medication2_attribute6'] = FINAL_medication2_attribute6_[loopvar: label].r2.val
+p['medication2_attribute7'] = FINAL_medication2_attribute7_[loopvar: label].r2.val
+p['medication2_attribute8'] = FINAL_medication2_attribute8_[loopvar: label].r2.val
+p['medication3_attribute1'] = FINAL_medication3_attribute1_[loopvar: label].r2.val
+p['medication3_attribute2'] = FINAL_medication3_attribute2_[loopvar: label].r2.val
+p['medication3_attribute3'] = FINAL_medication3_attribute3_[loopvar: label].r2.val
+p['medication3_attribute4'] = FINAL_medication3_attribute4_[loopvar: label].r2.val
+p['medication3_attribute5'] = FINAL_medication3_attribute5_[loopvar: label].r2.val
+p['medication3_attribute6'] = FINAL_medication3_attribute6_[loopvar: label].r2.val
+p['medication3_attribute7'] = FINAL_medication3_attribute7_[loopvar: label].r2.val
+p['medication3_attribute8'] = FINAL_medication3_attribute8_[loopvar: label].r2.val
+
+# build the table again with the cells selected shown and the ones not hidden
+
+total_cols = int(res.Total_Columns) 
+fe_flag = int(res.Forced_Exposure_Flag)
+
+if fe_flag == 1:
+  rows = p.fe_html_rows[:]
+else:
+  rows = p.html_rows[:]
+
+print rows
+      
+for i,row in enumerate(rows):
+  for j,r in enumerate(row):
+    find = r.find('Med')
+    if find gt -1:
+      m = int(r[find+3]) # medication
+      a = int(r[find+6]) # attribute
+      if p['medication%d_attribute%d' % (m,a)]:
+        rows[i][j] = '<td><b>' + res['C%d_Attribute_%d' % (j+1,a)] + ': <span class="blue">' + p['concept%d_att%d' % (m,a)] + '</span></b></td>'
+print ''
+print rows
+
+s_html = '<table class="table table-bordered search_matrix"><tr class="blueBG">'
+
+for x in range(1, total_cols + 1):
+  s_html += '<td><b>' + res['Column_Header_%d' % x] + '</b><br /><br /></td>'
+s_html +='</tr>'
+
+for row in rows:
+  s_html += '<tr>'
+  for r in row:
+    s_html += r
+  s_html += '</tr>'
+s_html += '</table>'
+
+p.selected_rows = rows[:]
+p.q2_table = s_html
+    </exec>
+
+    <html label="Q_ISDT_CHOICE_header_1_[loopvar: label]"><p class="blue"><b>Question ${p.i} of ${res.Total_Patient_Cases}: Step 2</b></p></html>
+
+    <html label="Q_ISDT_CHOICE_link_[loopvar: label]" cond="res.Clinical_Info_Hyperlink" where="survey"><p><a style="text-decoration: underline; cursor: pointer;" onclick="return window.open(&amp;quot;${res.Clinical_Info_Hyperlink}&amp;quot;,'name','height=600,width=700')">Click here to view the New Clinical Information &gt;&gt;</a>
+        </p></html>
+
+    <html label="Q_ISDT_CHOICE_header_2_[loopvar: label]"><p>Please carefully review the information about <b>${res.NT_1_Name}</b> again. The boxes you opened in Step 1 are displayed for you.</p></html>
+
+    <html label="Q_ISDT_CHOICE_Forced_Exposure_[loopvar: label]" cond="int(res.Forced_Exposure_Flag) == 1"><p>${res.Forced_Exposure_Message}</p></html>
+
+    <radio 
+    label="Q_ISDT_CHOICE_[loopvar: label]"
+    unique="1">
+      <title>
+        [nt_1_table]
+        [q2_table]
+        <p>Of the treatment options below, which is your <u>first choice</u> for treating this patient for <b>${res.Usage_Occasion_1}</b>? Which is your <u>second choice</u>?</p>
+      </title>
+      <row label="r1">First Choice</row>
+      <row label="r2">Second Choice</row>
+      <col label="c1">${res.NT_1_Name}</col>
+      <col label="c2">Your current treatment</col>
+      <col label="c3">No treatment</col>
+    </radio>
+
+    <suspend/>
+
+    <exec>
+p.firstChoice = Q_ISDT_CHOICE_[loopvar: label].r1.attr("c%d" % (Q_ISDT_CHOICE_[loopvar: label].r1.val + 1)).text
+p.secondChoice = Q_ISDT_CHOICE_[loopvar: label].r2.attr("c%d" % (Q_ISDT_CHOICE_[loopvar: label].r2.val + 1)).text
+    </exec>
+
+    <html label="Q_ISDT_BW_header_[loopvar: label]"><p class="blue"><b>Question ${p.i} of ${res.Total_Patient_Cases}: Step 3</b></p></html>
+
+    <html label="Q_ISDT_BW_link_[loopvar: label]" cond="res.Clinical_Info_Hyperlink" where="survey"><p><a style="text-decoration: underline; cursor: pointer;" onclick="return window.open(&amp;quot;${res.Clinical_Info_Hyperlink}&amp;quot;,'name','height=600,width=700')">Click here to view the New Clinical Information &gt;&gt;</a>
+        </p></html>
+
+    <exec>
+Q_ISDT_BW_1_[loopvar: label].rows.order = p.ATTR_ORDER[0]
+    </exec>
+
+    <radio 
+    label="Q_ISDT_BW_1_[loopvar: label]"
+    cond="int(res.Total_Columns) gt 0"
+    grouping="cols"
+    shuffle="rows"
+    ss:questionClassNames="FP_BW"
+    surveyDisplay="desktop"
+    unique="1">
+      <title><p>Your previous answers are listed below for reference:</p>
+        <p>
+          <b>First Choice: ${p.firstChoice}</b><br />
+          <b>Second Choice: ${p.secondChoice}</b>
+        </p>
+        <p>Considering the information you learned from the below source...</p>
+        <p>Which piece of information <u>most motivates</u> you to want to take <b>${res.NT_1_Name}</b> to treat your condition? What pieces of information <u>least motivates</u> you?</p>
+      </title>
+      <row label="r1" cond="(medication1_attribute1_[loopvar: label].r2.ival) or res.C1_A1_FE == '1'" alt="Attribute_1">${res.C1_Attribute_1}: ${p.col1_A1_Level}</row>
+      <row label="r2" cond="(medication1_attribute2_[loopvar: label].r2.ival) or res.C1_A2_FE == '1'" alt="Attribute_2">${res.C1_Attribute_2}: ${p.col1_A2_Level}</row>
+      <row label="r3" cond="(medication1_attribute3_[loopvar: label].r2.ival) or res.C1_A3_FE == '1'" alt="Attribute_3">${res.C1_Attribute_3}: ${p.col1_A3_Level}</row>
+      <row label="r4" cond="(medication1_attribute4_[loopvar: label].r2.ival) or res.C1_A4_FE == '1'" alt="Attribute_4">${res.C1_Attribute_4}: ${p.col1_A4_Level}</row>
+      <row label="r5" cond="(medication1_attribute5_[loopvar: label].r2.ival) or res.C1_A5_FE == '1'" alt="Attribute_5">${res.C1_Attribute_5}: ${p.col1_A5_Level}</row>
+      <row label="r6" cond="(medication1_attribute6_[loopvar: label].r2.ival) or res.C1_A6_FE == '1'" alt="Attribute_6">${res.C1_Attribute_6}: ${p.col1_A6_Level}</row>
+      <row label="r7" cond="(medication1_attribute7_[loopvar: label].r2.ival) or res.C1_A7_FE == '1'" alt="Attribute_7">${res.C1_Attribute_7}: ${p.col1_A7_Level}</row>
+      <row label="r8" cond="(medication1_attribute8_[loopvar: label].r2.ival) or res.C1_A8_FE == '1'" alt="Attribute_8">${res.C1_Attribute_8}: ${p.col1_A8_Level}</row>
+      <col label="c1">Most Motivating to Take ${res.NT_1_Name}</col>
+      <col label="c2">Least Motivating to Take ${res.NT_1_Name}</col>
+      <style mode="before" name="question.header"><![CDATA[
+<style type="text/css">
+      .FP_BW .survey-q-grid .survey-q-grid-rowlegend {
+          text-align: center;
+      }
+      </style>
+]]></style>
+      <style name="question.row"><![CDATA[
+\@if this.styles.ss.rowHeight
+          <tr class="$(style) colCount-$(colCount)" style="height:${this.styles.ss.rowHeight};">
+      \@else
+          <tr class="$(style) colCount-$(colCount)">
+      \@endif
+          ${"%s%s" % (elements.split("</td>")[0],"</td>") if '</td>' in elements else "%s%s" % (elements.split("</div>")[0],"</div>")}
+          $(left)
+          ${elements.split("</td>")[1] if '</td>' in elements else elements.split("</div>")[2]}
+      </tr>
+]]></style>
+      <style name="question.top-legend"><![CDATA[
+\@if this.styles.ss.colLegendHeight
+          <tr class="legend top-legend${" GtTenColumns" if ec.colCount > 10 else ""} colCount-$(colCount)" style="height:${this.styles.ss.colLegendHeight};">
+      \@else
+          <tr class="legend top-legend${" GtTenColumns" if ec.colCount > 10 else ""} colCount-$(colCount)">
+      \@endif
+          ${"%s%s" % (legends.split("</th>")[0],"</th>") if '</th>' in legends else "%s%s" % (legends.split("</div>")[0],"</div>")}
+          $(left)
+          ${legends.split("</th>")[1] if '</th>' in legends else legends.split("</div>")[1]}
+      </tr>
+      <tbody>
+]]></style>
+      <style name="question.left-blank-legend"><![CDATA[
+<th class="cell blueBG empty-left empty-$(pos) unused ${"desktop" if this.grouping.cols else "mobile"} border-collapse"><h3 style="text-align:center"><b>${res.Column_Header_1}</b></h3></th>
+]]></style>
+    </radio>
+
+    <exec>
+Q_ISDT_BW_2_[loopvar: label].rows.order = p.ATTR_ORDER[1]
+    </exec>
+
+    <radio 
+    label="Q_ISDT_BW_2_[loopvar: label]"
+    cond="int(res.Total_Columns) gt 1"
+    grouping="cols"
+    shuffle="rows"
+    ss:questionClassNames="FP_BW"
+    surveyDisplay="desktop"
+    unique="1">
+      <title><p>Considering the information you learned from the below source...</p>
+        <p>Which piece of information <u>most motivates</u> you to want to take <b>${res.NT_1_Name}</b> to treat your condition? What pieces of information <u>least motivates</u> you?</p>
+      </title>
+      <row label="r1" cond="(medication2_attribute1_[loopvar: label].r2.ival) or res.C2_A1_FE == '1'" alt="Attribute_1">${res.C2_Attribute_1}: ${p.col2_A1_Level}</row>
+      <row label="r2" cond="(medication2_attribute2_[loopvar: label].r2.ival) or res.C2_A2_FE == '1'" alt="Attribute_2">${res.C2_Attribute_2}: ${p.col2_A2_Level}</row>
+      <row label="r3" cond="(medication2_attribute3_[loopvar: label].r2.ival) or res.C2_A3_FE == '1'" alt="Attribute_3">${res.C2_Attribute_3}: ${p.col2_A3_Level}</row>
+      <row label="r4" cond="(medication2_attribute4_[loopvar: label].r2.ival) or res.C2_A4_FE == '1'" alt="Attribute_4">${res.C2_Attribute_4}: ${p.col2_A4_Level}</row>
+      <row label="r5" cond="(medication2_attribute5_[loopvar: label].r2.ival) or res.C2_A5_FE == '1'" alt="Attribute_5">${res.C2_Attribute_5}: ${p.col2_A5_Level}</row>
+      <row label="r6" cond="(medication2_attribute6_[loopvar: label].r2.ival) or res.C2_A6_FE == '1'" alt="Attribute_6">${res.C2_Attribute_6}: ${p.col2_A6_Level}</row>
+      <row label="r7" cond="(medication2_attribute7_[loopvar: label].r2.ival) or res.C2_A7_FE == '1'" alt="Attribute_7">${res.C2_Attribute_7}: ${p.col2_A7_Level}</row>
+      <row label="r8" cond="(medication2_attribute8_[loopvar: label].r2.ival) or res.C2_A8_FE == '1'" alt="Attribute_8">${res.C2_Attribute_8}: ${p.col2_A8_Level}</row>
+      <col label="c1">Most Motivating to Take ${res.NT_1_Name}</col>
+      <col label="c2">Least Motivating to Take ${res.NT_1_Name}</col>
+      <style mode="before" name="question.header"><![CDATA[
+<style type="text/css">
+      .FP_BW .survey-q-grid .survey-q-grid-rowlegend {
+          text-align: center;
+      }
+      </style>
+]]></style>
+      <style name="question.row"><![CDATA[
+\@if this.styles.ss.rowHeight
+          <tr class="$(style) colCount-$(colCount)" style="height:${this.styles.ss.rowHeight};">
+      \@else
+          <tr class="$(style) colCount-$(colCount)">
+      \@endif
+          ${"%s%s" % (elements.split("</td>")[0],"</td>") if '</td>' in elements else "%s%s" % (elements.split("</div>")[0],"</div>")}
+          $(left)
+          ${elements.split("</td>")[1] if '</td>' in elements else elements.split("</div>")[2]}
+      </tr>
+]]></style>
+      <style name="question.top-legend"><![CDATA[
+\@if this.styles.ss.colLegendHeight
+          <tr class="legend top-legend${" GtTenColumns" if ec.colCount > 10 else ""} colCount-$(colCount)" style="height:${this.styles.ss.colLegendHeight};">
+      \@else
+          <tr class="legend top-legend${" GtTenColumns" if ec.colCount > 10 else ""} colCount-$(colCount)">
+      \@endif
+          ${"%s%s" % (legends.split("</th>")[0],"</th>") if '</th>' in legends else "%s%s" % (legends.split("</div>")[0],"</div>")}
+          $(left)
+          ${legends.split("</th>")[1] if '</th>' in legends else legends.split("</div>")[1]}
+      </tr>
+      <tbody>
+]]></style>
+      <style name="question.left-blank-legend"><![CDATA[
+<th class="cell blueBG empty-left empty-$(pos) unused ${"desktop" if this.grouping.cols else "mobile"} border-collapse"><h3 style="text-align:center"><b>${res.Column_Header_2}</b></h3></th>
+]]></style>
+    </radio>
+
+    <exec>
+Q_ISDT_BW_2_[loopvar: label].rows.order = p.ATTR_ORDER[2]
+    </exec>
+
+    <radio 
+    label="Q_ISDT_BW_3_[loopvar: label]"
+    cond="int(res.Total_Columns) gt 2"
+    grouping="cols"
+    shuffle="rows"
+    ss:questionClassNames="FP_BW"
+    surveyDisplay="desktop"
+    unique="1">
+      <title><p>Considering the information you learned from the below source...</p>
+        <p>Which piece of information <u>most motivates</u> you to want to take <b>${res.NT_1_Name}</b> to treat your condition? What pieces of information <u>least motivates</u> you?</p>
+      </title>
+      <row label="r1" cond="(medication3_attribute1_[loopvar: label].r2.ival) or res.C3_A1_FE == '1'" alt="Attribute_1">${res.C3_Attribute_1}: ${p.col3_A1_Level}</row>
+      <row label="r2" cond="(medication3_attribute2_[loopvar: label].r2.ival) or res.C3_A2_FE == '1'" alt="Attribute_2">${res.C3_Attribute_2}: ${p.col3_A2_Level}</row>
+      <row label="r3" cond="(medication3_attribute3_[loopvar: label].r2.ival) or res.C3_A3_FE == '1'" alt="Attribute_3">${res.C3_Attribute_3}: ${p.col3_A3_Level}</row>
+      <row label="r4" cond="(medication3_attribute4_[loopvar: label].r2.ival) or res.C3_A4_FE == '1'" alt="Attribute_4">${res.C3_Attribute_4}: ${p.col3_A4_Level}</row>
+      <row label="r5" cond="(medication3_attribute5_[loopvar: label].r2.ival) or res.C3_A5_FE == '1'" alt="Attribute_5">${res.C3_Attribute_5}: ${p.col3_A5_Level}</row>
+      <row label="r6" cond="(medication3_attribute6_[loopvar: label].r2.ival) or res.C3_A6_FE == '1'" alt="Attribute_6">${res.C3_Attribute_6}: ${p.col3_A6_Level}</row>
+      <row label="r7" cond="(medication3_attribute7_[loopvar: label].r2.ival) or res.C3_A7_FE == '1'" alt="Attribute_7">${res.C3_Attribute_7}: ${p.col3_A7_Level}</row>
+      <row label="r8" cond="(medication3_attribute8_[loopvar: label].r2.ival) or res.C3_A8_FE == '1'" alt="Attribute_8">${res.C3_Attribute_8}: ${p.col3_A8_Level}</row>
+      <col label="c1">Most Motivating to Take ${res.NT_1_Name}</col>
+      <col label="c2">Least Motivating to Take ${res.NT_1_Name}</col>
+      <style mode="before" name="question.header"><![CDATA[
+<style type="text/css">
+      .FP_BW .survey-q-grid .survey-q-grid-rowlegend {
+          text-align: center;
+      }
+      </style>
+]]></style>
+      <style name="question.row"><![CDATA[
+\@if this.styles.ss.rowHeight
+          <tr class="$(style) colCount-$(colCount)" style="height:${this.styles.ss.rowHeight};">
+      \@else
+          <tr class="$(style) colCount-$(colCount)">
+      \@endif
+          ${"%s%s" % (elements.split("</td>")[0],"</td>") if '</td>' in elements else "%s%s" % (elements.split("</div>")[0],"</div>")}
+          $(left)
+          ${elements.split("</td>")[1] if '</td>' in elements else elements.split("</div>")[2]}
+      </tr>
+]]></style>
+      <style name="question.top-legend"><![CDATA[
+\@if this.styles.ss.colLegendHeight
+          <tr class="legend top-legend${" GtTenColumns" if ec.colCount > 10 else ""} colCount-$(colCount)" style="height:${this.styles.ss.colLegendHeight};">
+      \@else
+          <tr class="legend top-legend${" GtTenColumns" if ec.colCount > 10 else ""} colCount-$(colCount)">
+      \@endif
+          ${"%s%s" % (legends.split("</th>")[0],"</th>") if '</th>' in legends else "%s%s" % (legends.split("</div>")[0],"</div>")}
+          $(left)
+          ${legends.split("</th>")[1] if '</th>' in legends else legends.split("</div>")[1]}
+      </tr>
+      <tbody>
+]]></style>
+      <style name="question.left-blank-legend"><![CDATA[
+<th class="cell blueBG empty-left empty-$(pos) unused ${"desktop" if this.grouping.cols else "mobile"} border-collapse"><h3 style="text-align:center"><b>${res.Column_Header_3}</b></h3></th>
+]]></style>
+    </radio>
+
+    <suspend/>
+  </block>
+
+  <looprow label="1" cond="res.Total_Patient_Cases ge '1'">
+    <loopvar name="task">1</loopvar>
+    <loopvar name="NTleft">1</loopvar>
+    <loopvar name="NTmiddle">2</loopvar>
+    <loopvar name="NTright">3</loopvar>
+    <loopvar name="NTlast"/>
+  </looprow>
+
+  <looprow label="2" cond="res.Total_Patient_Cases ge '2'">
+    <loopvar name="task">2</loopvar>
+    <loopvar name="NTleft">1</loopvar>
+    <loopvar name="NTmiddle">2</loopvar>
+    <loopvar name="NTright">3</loopvar>
+    <loopvar name="NTlast"/>
+  </looprow>
+
+  <looprow label="3" cond="res.Total_Patient_Cases ge '3'">
+    <loopvar name="task">3</loopvar>
+    <loopvar name="NTleft">1</loopvar>
+    <loopvar name="NTmiddle">2</loopvar>
+    <loopvar name="NTright">3</loopvar>
+    <loopvar name="NTlast"/>
+  </looprow>
+
+  <looprow label="4" cond="res.Total_Patient_Cases ge '4'">
+    <loopvar name="task">4</loopvar>
+    <loopvar name="NTleft">1</loopvar>
+    <loopvar name="NTmiddle">2</loopvar>
+    <loopvar name="NTright">3</loopvar>
+    <loopvar name="NTlast"/>
+  </looprow>
+
+  <looprow label="5" cond="res.Total_Patient_Cases ge '5'">
+    <loopvar name="task">5</loopvar>
+    <loopvar name="NTleft">1</loopvar>
+    <loopvar name="NTmiddle">2</loopvar>
+    <loopvar name="NTright">3</loopvar>
+    <loopvar name="NTlast"/>
+  </looprow>
+
+  <looprow label="6" cond="res.Total_Patient_Cases ge '6'">
+    <loopvar name="task">6</loopvar>
+    <loopvar name="NTleft">1</loopvar>
+    <loopvar name="NTmiddle">2</loopvar>
+    <loopvar name="NTright">3</loopvar>
+    <loopvar name="NTlast"/>
+  </looprow>
+
+  <looprow label="7" cond="res.Total_Patient_Cases ge '7'">
+    <loopvar name="task">7</loopvar>
+    <loopvar name="NTleft">1</loopvar>
+    <loopvar name="NTmiddle">2</loopvar>
+    <loopvar name="NTright">3</loopvar>
+    <loopvar name="NTlast"/>
+  </looprow>
+
+  <looprow label="8" cond="res.Total_Patient_Cases ge '8'">
+    <loopvar name="task">8</loopvar>
+    <loopvar name="NTleft">1</loopvar>
+    <loopvar name="NTmiddle">2</loopvar>
+    <loopvar name="NTright">3</loopvar>
+    <loopvar name="NTlast"/>
+  </looprow>
+</loop>
+
+<float 
+  label="Time_ISM_LOOP"
+  optional="0"
+  where="execute,survey,report">
+  <title>Time ISM_LOOP</title>
+  <exec>
+stop_time = timeSpent() # get current time
+end_time = stop_time - p.temp_start_time # get elapsed time since last time calc
+Time_ISM_LOOP.val = end_time # set value of question
+p.temp_start_time = timeSpent() # set start time of next question
+  </exec>
+
+</float>
+
+<suspend/>
+
+<style name="respview.client.js" with="Q_ISDT_SEARCH_1,Q_ISDT_SEARCH_2,Q_ISDT_SEARCH_3,Q_ISDT_SEARCH_4,Q_ISDT_SEARCH_5,Q_ISDT_SEARCH_6,Q_ISDT_SEARCH_7,Q_ISDT_SEARCH_8" wrap="ready"><![CDATA[
+var $submitButton = $ ("#btn_continue, #btn_finish");
+$submitButton.prop("disabled", true);  
+
+// !!YOU NEED TO SET THESE THREE VARIABLES MANUALLY TO MATCH THE CORRESPONDING RESOURCE TAGS!!
+var extra_clicks = 7;
+var min_clicks_col = [1,1,1,0];
+var max_clicks = 10; // not necessary just makes life easier
+var min_clicks = 3;
+
+var page_start_time = null;
+var now = null;
+var rank_counter = 1;
+var curr_clicks_col = [0,0,0,0];
+var curr_extra_clicks = 0;
+var required_clicks = 0;
+var curr_clicks = 0; // not necessary just makes life easier
+var last_class = null; // holds class name of the last item you clicked
+
+$ (window).load(function() { // not sure if this is needed anymore
+  page_start_time = Date.now();
+});
+
+$ ('.hide_cell').click(function() { // when a hidden cell is clicked
+  if(! $ (this).hasClass('already_clicked') && curr_clicks < max_clicks) {
+    
+    var classes = $ (this).attr('class');
+    var match = classes.search('Med');
+  
+    if (match >= 0) { // custom class was found
+      // sub-string collecting
+      var col = classes.slice(match+3, match + 4); 
+
+      if (curr_clicks_col[col-1] < min_clicks_col[col-1] || curr_extra_clicks < extra_clicks) {
+        var findClass = classes.slice(match, match + 7); 
+        var curr_time = Date.now();
+        var time_val = (curr_time - now) / 1000;
+
+        $ (this).toggleClass('show_cell already_clicked');
+        
+        if (last_class) { // if not first click
+          $ ('.time_'+last_class+' .time_row input').val(time_val); // set the time val of the last item clicked
+        } else { // if first click, set page_start_time for calculation of final rank time
+          page_start_time = (Date.now() - page_start_time) / 1000; 
+          $ ('.time_start .time_row input').val(page_start_time);
+        }
+
+        last_class = findClass;
+        $ ('.time_'+findClass+' .rank_row input').val(rank_counter);    
+        
+        now = Date.now();
+        rank_counter++;
+        curr_clicks_col[col-1]++;
+        curr_clicks++;
+
+        if (min_clicks_col[col-1] < curr_clicks_col[col-1]) {
+          curr_extra_clicks++;
+        } else {
+          required_clicks++;
+        }
+
+        // hide Attribute label when clicked to show attribute level 
+        if(col == 1) {
+          if(min_clicks_col[col-1] <= curr_clicks_col[col-1]) {
+            $ ('.C1_span').css('visibility', 'hidden');
+          } else {
+            $ ('.C1_remaining').text((min_clicks_col[col-1] - curr_clicks_col[col-1])+'');
+          }
+        } else if(col == 2) {
+          if(min_clicks_col[col-1] <= curr_clicks_col[col-1]) {
+            $ ('.C2_span').css('visibility', 'hidden');
+          } else {
+            $ ('.C2_remaining').text((min_clicks_col[col-1] - curr_clicks_col[col-1])+'');
+          }  
+        } else if(col == 3) {
+            if(min_clicks_col[col-1] <= curr_clicks_col[col-1]) {
+              $ ('.C3_span').css('visibility', 'hidden');
+            } else {
+              $ ('.C3_remaining').text((min_clicks_col[col-1] - curr_clicks_col[col-1])+'');
+            }    
+        }
+        
+        // condition for unlocking continue button
+        if (curr_clicks_col[0] >= min_clicks_col[0] &&
+          curr_clicks_col[1] >= min_clicks_col[1] &&
+          curr_clicks_col[2] >= min_clicks_col[2] &&
+          curr_clicks_col[3] >= min_clicks_col[3]) {
+          $ ('.continue_min_text').css('display', 'block');
+          $ ('.continue_max_text').css('display', 'none');
+          $ ('.additional_text').css('display', 'none');
+          $submitButton.prop("disabled", false);
+        } else if (curr_extra_clicks >= extra_clicks) {
+        $ ('.continue_max_text').css('display', 'none');
+        $ ('.continue_min_text').css('display', 'none');
+        $ ('.additional_text').css('display', 'block');
+        }             
+      }
+
+      if (curr_clicks === max_clicks) {
+        $ ('.continue_max_text').css('display', 'block');
+        $ ('.continue_min_text').css('display', 'none');
+        $ ('.additional_text').css('display', 'none');
+      }      
+    } 
+  }
+});
+]]></style>
+<style mode="after" name="respview.client.js"><![CDATA[
+<script>
+
+// Pop up window for more inormation about research
+function popitup(url) {
+  newwindow=window.open(url,'name','height=600,width=700');
+  if (window.focus) {newwindow.focus()}
+  return false;
+}
+
+</script>
+]]></style></survey>
